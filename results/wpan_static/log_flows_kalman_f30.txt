@@ -1,0 +1,48 @@
+Flow 0: node 13 -> node 4 port=9000
+Flow 1: node 8 -> node 0 port=9001
+Flow 2: node 12 -> node 2 port=9002
+Flow 3: node 18 -> node 17 port=9003
+Flow 4: node 0 -> node 19 port=9004
+Flow 5: node 17 -> node 10 port=9005
+Flow 6: node 15 -> node 3 port=9006
+Flow 7: node 0 -> node 14 port=9007
+Flow 8: node 13 -> node 4 port=9008
+Flow 9: node 6 -> node 0 port=9009
+Flow 10: node 9 -> node 17 port=9010
+Flow 11: node 6 -> node 1 port=9011
+Flow 12: node 8 -> node 19 port=9012
+Flow 13: node 18 -> node 19 port=9013
+Flow 14: node 19 -> node 5 port=9014
+Flow 15: node 13 -> node 15 port=9015
+Flow 16: node 6 -> node 4 port=9016
+Flow 17: node 11 -> node 16 port=9017
+Flow 18: node 0 -> node 6 port=9018
+Flow 19: node 0 -> node 18 port=9019
+Flow 20: node 18 -> node 3 port=9020
+Flow 21: node 8 -> node 11 port=9021
+Flow 22: node 4 -> node 9 port=9022
+Flow 23: node 11 -> node 12 port=9023
+Flow 24: node 0 -> node 7 port=9024
+Flow 25: node 12 -> node 14 port=9025
+Flow 26: node 13 -> node 19 port=9026
+Flow 27: node 7 -> node 8 port=9027
+Flow 28: node 0 -> node 6 port=9028
+Flow 29: node 8 -> node 1 port=9029
+
+=== SUMMARY ===
+TCP Variant:        kalman
+Nodes:              20
+Flows:              30
+PacketsPerSec:      100
+CoverageMultiplier: 1
+Sim Time:           60 s
+Total Tx Packets:   6715
+Total Rx Packets:   5683
+Total Lost Packets: 877
+Packet Delivery:    84.6314 %
+Packet Drop Ratio:  13.0603 %
+Total Throughput:   0.118781 Mbps
+Mean Delay:         50.7792 ms
+Energy Consumed:    3.57959 J
+
+Simulation finished.

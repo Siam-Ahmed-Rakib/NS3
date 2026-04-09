@@ -1,0 +1,28 @@
+Flow 0: node 3 -> node 8 port=9000 rate=819200bps
+Flow 1: node 15 -> node 7 port=9001 rate=819200bps
+Flow 2: node 16 -> node 8 port=9002 rate=819200bps
+Flow 3: node 12 -> node 0 port=9003 rate=819200bps
+Flow 4: node 13 -> node 14 port=9004 rate=819200bps
+Flow 5: node 14 -> node 15 port=9005 rate=819200bps
+Flow 6: node 9 -> node 18 port=9006 rate=819200bps
+Flow 7: node 13 -> node 19 port=9007 rate=819200bps
+Flow 8: node 13 -> node 8 port=9008 rate=819200bps
+Flow 9: node 17 -> node 0 port=9009 rate=819200bps
+
+=== SUMMARY ===
+TCP Variant:        kalman
+Nodes:              20
+Flows:              10
+PacketsPerSec:      100
+Speed:              5 m/s
+Sim Time:           30 s
+Total Tx Packets:   19534
+Total Rx Packets:   19103
+Total Lost Packets: 369
+Packet Delivery:    97.7936 %
+Packet Drop Ratio:  1.88901 %
+Total Throughput:   4.34506 Mbps
+Mean Delay:         25.0577 ms
+Energy Consumed:    520.043 J
+
+Simulation finished.

@@ -1,0 +1,1382 @@
+Flow 0: node 17 -> node 11 port=9000 start=25.2149s maxBytes=23676581
+Flow 1: node 18 -> node 1 port=9001 start=46.5208s maxBytes=1661183
+Flow 2: node 18 -> node 1 port=9002 start=83.017s maxBytes=8109858
+25.2354	/NodeList/11/$ns3::TcpL4Protocol/SocketList/0/CongestionWindow	CWND	5120
+46.5363	/NodeList/1/$ns3::TcpL4Protocol/SocketList/0/CongestionWindow	CWND	5120
+83.0319	/NodeList/1/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	5120
+
+Flow 1 (10.1.0.18:49153 -> 10.1.0.12:9000)
+  Tx Packets:       4985
+  Rx Packets:       4867
+  Lost Packets:     118
+  Retx (forwarded): 5702
+  Packet Loss:      2.3671 %
+  Throughput:       0.38032 Mbps
+  Mean Delay:       53.6616 ms
+  Mean Jitter:      9.17797 ms
+
+Flow 2 (10.1.0.14:654 -> 10.1.0.18:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000583237 Mbps
+  Mean Delay:       4.33333 ms
+  Mean Jitter:      1.5 ms
+
+Flow 3 (10.1.0.14:654 -> 10.1.0.12:654)
+  Tx Packets:       2
+  Rx Packets:       0
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 4 (10.1.0.2:654 -> 10.1.0.18:654)
+  Tx Packets:       15
+  Rx Packets:       15
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000222542 Mbps
+  Mean Delay:       12.6667 ms
+  Mean Jitter:      20.3571 ms
+
+Flow 5 (10.1.0.2:654 -> 10.1.0.12:654)
+  Tx Packets:       28
+  Rx Packets:       25
+  Lost Packets:     3
+  Retx (forwarded): 2
+  Packet Loss:      10.7143 %
+  Throughput:       0.0001113 Mbps
+  Mean Delay:       21.12 ms
+  Mean Jitter:      20.4167 ms
+
+Flow 6 (10.1.0.15:654 -> 10.1.0.18:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       9.17194e-05 Mbps
+  Mean Delay:       66 ms
+  Mean Jitter:      150.833 ms
+
+Flow 7 (10.1.0.15:654 -> 10.1.0.12:654)
+  Tx Packets:       17
+  Rx Packets:       16
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      5.88235 %
+  Throughput:       9.48285e-05 Mbps
+  Mean Delay:       3.0625 ms
+  Mean Jitter:      2.86667 ms
+
+Flow 8 (10.1.0.18:654 -> 10.1.0.15:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       4.90066e-05 Mbps
+  Mean Delay:       44.75 ms
+  Mean Jitter:      101.667 ms
+
+Flow 9 (10.1.0.18:654 -> 10.1.0.14:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000391968 Mbps
+  Mean Delay:       7 ms
+  Mean Jitter:      3 ms
+
+Flow 10 (10.1.0.18:654 -> 10.1.0.2:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       5.24853e-05 Mbps
+  Mean Delay:       41.4 ms
+  Mean Jitter:      73.25 ms
+
+Flow 11 (10.1.0.12:9000 -> 10.1.0.18:49153)
+  Tx Packets:       2510
+  Rx Packets:       2447
+  Lost Packets:     63
+  Retx (forwarded): 3179
+  Packet Loss:      2.50996 %
+  Throughput:       0.0240392 Mbps
+  Mean Delay:       32.671 ms
+  Mean Jitter:      8.61243 ms
+
+Flow 12 (10.1.0.19:654 -> 10.1.0.15:654)
+  Tx Packets:       10
+  Rx Packets:       9
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      10 %
+  Throughput:       6.83658e-05 Mbps
+  Mean Delay:       23.5556 ms
+  Mean Jitter:      31.125 ms
+
+Flow 13 (10.1.0.19:654 -> 10.1.0.12:654)
+  Tx Packets:       27
+  Rx Packets:       27
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000169939 Mbps
+  Mean Delay:       34.037 ms
+  Mean Jitter:      43.5 ms
+
+Flow 14 (10.1.0.15:654 -> 10.1.0.19:654)
+  Tx Packets:       8
+  Rx Packets:       8
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       4.65504e-05 Mbps
+  Mean Delay:       6.375 ms
+  Mean Jitter:      4.28571 ms
+
+Flow 15 (10.1.0.12:654 -> 10.1.0.2:654)
+  Tx Packets:       27
+  Rx Packets:       24
+  Lost Packets:     3
+  Retx (forwarded): 0
+  Packet Loss:      11.1111 %
+  Throughput:       0.00010749 Mbps
+  Mean Delay:       7.58333 ms
+  Mean Jitter:      8.82609 ms
+
+Flow 16 (10.1.0.7:654 -> 10.1.0.12:654)
+  Tx Packets:       60
+  Rx Packets:       59
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      1.66667 %
+  Throughput:       0.0002924 Mbps
+  Mean Delay:       12.6441 ms
+  Mean Jitter:      5.39655 ms
+
+Flow 17 (10.1.0.7:654 -> 10.1.0.18:654)
+  Tx Packets:       8
+  Rx Packets:       8
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000352902 Mbps
+  Mean Delay:       164.375 ms
+  Mean Jitter:      144.857 ms
+
+Flow 18 (10.1.0.19:654 -> 10.1.0.2:654)
+  Tx Packets:       3
+  Rx Packets:       0
+  Lost Packets:     3
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 19 (10.1.0.7:654 -> 10.1.0.2:654)
+  Tx Packets:       46
+  Rx Packets:       46
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000244328 Mbps
+  Mean Delay:       8.02174 ms
+  Mean Jitter:      4.75556 ms
+
+Flow 20 (10.1.0.12:654 -> 10.1.0.19:654)
+  Tx Packets:       38
+  Rx Packets:       38
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000185767 Mbps
+  Mean Delay:       3.23684 ms
+  Mean Jitter:      3.35135 ms
+
+Flow 21 (10.1.0.12:654 -> 10.1.0.7:654)
+  Tx Packets:       20
+  Rx Packets:       20
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       9.20208e-05 Mbps
+  Mean Delay:       11.6 ms
+  Mean Jitter:      17.2105 ms
+
+Flow 22 (10.1.0.13:654 -> 10.1.0.12:654)
+  Tx Packets:       22
+  Rx Packets:       21
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      4.54545 %
+  Throughput:       0.000287559 Mbps
+  Mean Delay:       3.61905 ms
+  Mean Jitter:      3.15 ms
+
+Flow 23 (10.1.0.13:654 -> 10.1.0.18:654)
+  Tx Packets:       9
+  Rx Packets:       9
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000208759 Mbps
+  Mean Delay:       17.1111 ms
+  Mean Jitter:      17.875 ms
+
+Flow 24 (10.1.0.12:654 -> 10.1.0.13:654)
+  Tx Packets:       10
+  Rx Packets:       9
+  Lost Packets:     1
+  Retx (forwarded): 1
+  Packet Loss:      10 %
+  Throughput:       0.000102139 Mbps
+  Mean Delay:       7.55556 ms
+  Mean Jitter:      10.375 ms
+
+Flow 25 (10.1.0.2:654 -> 10.1.0.7:654)
+  Tx Packets:       19
+  Rx Packets:       18
+  Lost Packets:     1
+  Retx (forwarded): 3
+  Packet Loss:      5.26316 %
+  Throughput:       7.3858e-05 Mbps
+  Mean Delay:       50.3333 ms
+  Mean Jitter:      100.059 ms
+
+Flow 26 (10.1.0.13:654 -> 10.1.0.7:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       9.94684e-05 Mbps
+  Mean Delay:       6.14286 ms
+  Mean Jitter:      6 ms
+
+Flow 27 (10.1.0.13:654 -> 10.1.0.2:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000147899 Mbps
+  Mean Delay:       11.8571 ms
+  Mean Jitter:      15.3333 ms
+
+Flow 28 (10.1.0.7:654 -> 10.1.0.13:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       6.03473e-05 Mbps
+  Mean Delay:       5.75 ms
+  Mean Jitter:      6 ms
+
+Flow 29 (10.1.0.2:654 -> 10.1.0.13:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       9.31084e-05 Mbps
+  Mean Delay:       27.8 ms
+  Mean Jitter:      61.75 ms
+
+Flow 30 (10.1.0.7:654 -> 10.1.0.19:654)
+  Tx Packets:       24
+  Rx Packets:       24
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000220388 Mbps
+  Mean Delay:       3.375 ms
+  Mean Jitter:      2.86957 ms
+
+Flow 31 (10.1.0.19:654 -> 10.1.0.7:654)
+  Tx Packets:       10
+  Rx Packets:       9
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      10 %
+  Throughput:       5.50994e-05 Mbps
+  Mean Delay:       130.889 ms
+  Mean Jitter:      151.375 ms
+
+Flow 32 (10.1.0.7:654 -> 10.1.0.16:654)
+  Tx Packets:       10
+  Rx Packets:       10
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000238696 Mbps
+  Mean Delay:       102.9 ms
+  Mean Jitter:      115 ms
+
+Flow 33 (10.1.0.18:654 -> 10.1.0.13:654)
+  Tx Packets:       2
+  Rx Packets:       1
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      50 %
+  Throughput:       0.0624986 Mbps
+  Mean Delay:       3 ms
+  Mean Jitter:      0 ms
+
+Flow 34 (10.1.0.17:654 -> 10.1.0.14:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000331322 Mbps
+  Mean Delay:       501 ms
+  Mean Jitter:      1002 ms
+
+Flow 35 (10.1.0.17:654 -> 10.1.0.6:654)
+  Tx Packets:       12
+  Rx Packets:       0
+  Lost Packets:     12
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 36 (10.1.0.10:654 -> 10.1.0.14:654)
+  Tx Packets:       1
+  Rx Packets:       0
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 37 (10.1.0.10:654 -> 10.1.0.17:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.85037e-05 Mbps
+  Mean Delay:       1.25 ms
+  Mean Jitter:      1 ms
+
+Flow 38 (10.1.0.8:654 -> 10.1.0.14:654)
+  Tx Packets:       2
+  Rx Packets:       0
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 39 (10.1.0.8:654 -> 10.1.0.17:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000381864 Mbps
+  Mean Delay:       1005 ms
+  Mean Jitter:      0 ms
+
+Flow 40 (10.1.0.4:654 -> 10.1.0.14:654)
+  Tx Packets:       3
+  Rx Packets:       0
+  Lost Packets:     3
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 41 (10.1.0.4:654 -> 10.1.0.17:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       2.48287e-05 Mbps
+  Mean Delay:       259.25 ms
+  Mean Jitter:      353.333 ms
+
+Flow 42 (10.1.0.16:654 -> 10.1.0.7:654)
+  Tx Packets:       9
+  Rx Packets:       7
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      22.2222 %
+  Throughput:       0.000170851 Mbps
+  Mean Delay:       9.28571 ms
+  Mean Jitter:      11.6667 ms
+
+Flow 43 (10.1.0.16:654 -> 10.1.0.18:654)
+  Tx Packets:       18
+  Rx Packets:       18
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000150876 Mbps
+  Mean Delay:       5.11111 ms
+  Mean Jitter:      6.23529 ms
+
+Flow 44 (10.1.0.14:654 -> 10.1.0.3:654)
+  Tx Packets:       2
+  Rx Packets:       0
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 45 (10.1.0.13:654 -> 10.1.0.19:654)
+  Tx Packets:       19
+  Rx Packets:       18
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      5.26316 %
+  Throughput:       0.000304031 Mbps
+  Mean Delay:       125.611 ms
+  Mean Jitter:      128.059 ms
+
+Flow 46 (10.1.0.14:654 -> 10.1.0.17:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.2895e-05 Mbps
+  Mean Delay:       3.5 ms
+  Mean Jitter:      6 ms
+
+Flow 47 (10.1.0.19:49153 -> 10.1.0.2:9001)
+  Tx Packets:       3310
+  Rx Packets:       3263
+  Lost Packets:     47
+  Retx (forwarded): 3655
+  Packet Loss:      1.41994 %
+  Throughput:       0.667955 Mbps
+  Mean Delay:       57.1088 ms
+  Mean Jitter:      5.10239 ms
+
+Flow 48 (10.1.0.2:9001 -> 10.1.0.19:49153)
+  Tx Packets:       1725
+  Rx Packets:       1712
+  Lost Packets:     13
+  Retx (forwarded): 1825
+  Packet Loss:      0.753623 %
+  Throughput:       0.033069 Mbps
+  Mean Delay:       28.8931 ms
+  Mean Jitter:      7.34775 ms
+
+Flow 49 (10.1.0.15:654 -> 10.1.0.17:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000351784 Mbps
+  Mean Delay:       5.5 ms
+  Mean Jitter:      9 ms
+
+Flow 50 (10.1.0.15:654 -> 10.1.0.2:654)
+  Tx Packets:       13
+  Rx Packets:       12
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      7.69231 %
+  Throughput:       0.000342645 Mbps
+  Mean Delay:       1.08333 ms
+  Mean Jitter:      0.727273 ms
+
+Flow 51 (10.1.0.17:654 -> 10.1.0.15:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0516722 Mbps
+  Mean Delay:       4 ms
+  Mean Jitter:      0 ms
+
+Flow 52 (10.1.0.19:654 -> 10.1.0.13:654)
+  Tx Packets:       7
+  Rx Packets:       6
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      14.2857 %
+  Throughput:       8.62272e-05 Mbps
+  Mean Delay:       21.5 ms
+  Mean Jitter:      16.6 ms
+
+Flow 53 (10.1.0.15:654 -> 10.1.0.6:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000153573 Mbps
+  Mean Delay:       5.75 ms
+  Mean Jitter:      8 ms
+
+Flow 54 (10.1.0.6:654 -> 10.1.0.19:654)
+  Tx Packets:       23
+  Rx Packets:       22
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      4.34783 %
+  Throughput:       0.000151553 Mbps
+  Mean Delay:       214.182 ms
+  Mean Jitter:      106.381 ms
+
+Flow 55 (10.1.0.13:654 -> 10.1.0.15:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000205105 Mbps
+  Mean Delay:       6.4 ms
+  Mean Jitter:      3.5 ms
+
+Flow 56 (10.1.0.2:654 -> 10.1.0.15:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000257512 Mbps
+  Mean Delay:       25.8333 ms
+  Mean Jitter:      13.4 ms
+
+Flow 57 (10.1.0.7:654 -> 10.1.0.15:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       6.51241e-05 Mbps
+  Mean Delay:       4.66667 ms
+  Mean Jitter:      6 ms
+
+Flow 58 (10.1.0.15:654 -> 10.1.0.3:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000417104 Mbps
+  Mean Delay:       5 ms
+  Mean Jitter:      8.6 ms
+
+Flow 59 (10.1.0.3:654 -> 10.1.0.18:654)
+  Tx Packets:       18
+  Rx Packets:       18
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000482534 Mbps
+  Mean Delay:       6.66667 ms
+  Mean Jitter:      11.8824 ms
+
+Flow 60 (10.1.0.15:654 -> 10.1.0.7:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       0.00011631 Mbps
+  Mean Delay:       19.5 ms
+  Mean Jitter:      38 ms
+
+Flow 61 (10.1.0.15:654 -> 10.1.0.13:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000207737 Mbps
+  Mean Delay:       5.28571 ms
+  Mean Jitter:      6.66667 ms
+
+Flow 62 (10.1.0.16:654 -> 10.1.0.15:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000172831 Mbps
+  Mean Delay:       8.66667 ms
+  Mean Jitter:      5.5 ms
+
+Flow 63 (10.1.0.15:654 -> 10.1.0.16:654)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       0.000178501 Mbps
+  Mean Delay:       10.6667 ms
+  Mean Jitter:      7.5 ms
+
+Flow 64 (10.1.0.18:654 -> 10.1.0.16:654)
+  Tx Packets:       9
+  Rx Packets:       9
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000238598 Mbps
+  Mean Delay:       19.3333 ms
+  Mean Jitter:      22 ms
+
+Flow 65 (10.1.0.2:654 -> 10.1.0.16:654)
+  Tx Packets:       10
+  Rx Packets:       10
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000205179 Mbps
+  Mean Delay:       25.7 ms
+  Mean Jitter:      33.4444 ms
+
+Flow 66 (10.1.0.6:654 -> 10.1.0.15:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000175748 Mbps
+  Mean Delay:       617.75 ms
+  Mean Jitter:      561 ms
+
+Flow 67 (10.1.0.16:654 -> 10.1.0.13:654)
+  Tx Packets:       1
+  Rx Packets:       0
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 68 (10.1.0.6:654 -> 10.1.0.13:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000153513 Mbps
+  Mean Delay:       5.25 ms
+  Mean Jitter:      6.33333 ms
+
+Flow 69 (10.1.0.16:654 -> 10.1.0.2:654)
+  Tx Packets:       19
+  Rx Packets:       19
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000555421 Mbps
+  Mean Delay:       27.7368 ms
+  Mean Jitter:      18.7778 ms
+
+Flow 70 (10.1.0.13:654 -> 10.1.0.3:654)
+  Tx Packets:       12
+  Rx Packets:       12
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000223115 Mbps
+  Mean Delay:       90.5833 ms
+  Mean Jitter:      97.8182 ms
+
+Flow 71 (10.1.0.3:654 -> 10.1.0.15:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.185183 Mbps
+  Mean Delay:       1 ms
+  Mean Jitter:      0 ms
+
+Flow 72 (10.1.0.6:654 -> 10.1.0.3:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000139479 Mbps
+  Mean Delay:       3.6 ms
+  Mean Jitter:      4.25 ms
+
+Flow 73 (10.1.0.18:654 -> 10.1.0.3:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000290931 Mbps
+  Mean Delay:       1 ms
+  Mean Jitter:      1 ms
+
+Flow 74 (10.1.0.3:654 -> 10.1.0.13:654)
+  Tx Packets:       12
+  Rx Packets:       10
+  Lost Packets:     2
+  Retx (forwarded): 1
+  Packet Loss:      16.6667 %
+  Throughput:       0.000199444 Mbps
+  Mean Delay:       242.7 ms
+  Mean Jitter:      314.444 ms
+
+Flow 75 (10.1.0.1:654 -> 10.1.0.18:654)
+  Tx Packets:       16
+  Rx Packets:       16
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000558809 Mbps
+  Mean Delay:       8.625 ms
+  Mean Jitter:      4.33333 ms
+
+Flow 76 (10.1.0.1:654 -> 10.1.0.3:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0354967 Mbps
+  Mean Delay:       2.5 ms
+  Mean Jitter:      1 ms
+
+Flow 77 (10.1.0.3:654 -> 10.1.0.1:654)
+  Tx Packets:       8
+  Rx Packets:       8
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       0.000978115 Mbps
+  Mean Delay:       3.75 ms
+  Mean Jitter:      2.71429 ms
+
+Flow 78 (10.1.0.20:654 -> 10.1.0.17:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000127936 Mbps
+  Mean Delay:       3001 ms
+  Mean Jitter:      0 ms
+
+Flow 79 (10.1.0.20:654 -> 10.1.0.6:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00010784 Mbps
+  Mean Delay:       668.333 ms
+  Mean Jitter:      1002 ms
+
+Flow 80 (10.1.0.19:654 -> 10.1.0.6:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0325768 Mbps
+  Mean Delay:       9 ms
+  Mean Jitter:      0 ms
+
+Flow 81 (10.1.0.17:654 -> 10.1.0.19:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       5.26235e-05 Mbps
+  Mean Delay:       1 ms
+  Mean Jitter:      1 ms
+
+Flow 82 (10.1.0.6:654 -> 10.1.0.12:654)
+  Tx Packets:       12
+  Rx Packets:       12
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000109214 Mbps
+  Mean Delay:       87 ms
+  Mean Jitter:      95.8182 ms
+
+Flow 83 (10.1.0.3:654 -> 10.1.0.6:654)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       0.000348285 Mbps
+  Mean Delay:       23.6667 ms
+  Mean Jitter:      33 ms
+
+Flow 84 (10.1.0.13:654 -> 10.1.0.6:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0168796 Mbps
+  Mean Delay:       22 ms
+  Mean Jitter:      0 ms
+
+Flow 85 (10.1.0.6:654 -> 10.1.0.20:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       5.10637e-05 Mbps
+  Mean Delay:       22.3333 ms
+  Mean Jitter:      22 ms
+
+Flow 86 (10.1.0.3:654 -> 10.1.0.20:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000127284 Mbps
+  Mean Delay:       3016 ms
+  Mean Jitter:      0 ms
+
+Flow 87 (10.1.0.10:654 -> 10.1.0.20:654)
+  Tx Packets:       3
+  Rx Packets:       0
+  Lost Packets:     3
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 88 (10.1.0.10:654 -> 10.1.0.6:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       6.57273e-05 Mbps
+  Mean Delay:       13 ms
+  Mean Jitter:      25 ms
+
+Flow 89 (10.1.0.19:654 -> 10.1.0.20:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       6.23181e-05 Mbps
+  Mean Delay:       1258.33 ms
+  Mean Jitter:      1535 ms
+
+Flow 90 (10.1.0.20:654 -> 10.1.0.18:654)
+  Tx Packets:       2
+  Rx Packets:       1
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      50 %
+  Throughput:       0.0216217 Mbps
+  Mean Delay:       17 ms
+  Mean Jitter:      0 ms
+
+Flow 91 (10.1.0.6:654 -> 10.1.0.10:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00010339 Mbps
+  Mean Delay:       6.5 ms
+  Mean Jitter:      8 ms
+
+Flow 92 (10.1.0.13:654 -> 10.1.0.20:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000373283 Mbps
+  Mean Delay:       1028 ms
+  Mean Jitter:      0 ms
+
+Flow 93 (10.1.0.10:654 -> 10.1.0.8:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       4.33173e-05 Mbps
+  Mean Delay:       2 ms
+  Mean Jitter:      2.33333 ms
+
+Flow 94 (10.1.0.20:654 -> 10.1.0.3:654)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       0.00114832 Mbps
+  Mean Delay:       627.333 ms
+  Mean Jitter:      293 ms
+
+Flow 95 (10.1.0.20:654 -> 10.1.0.19:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00157263 Mbps
+  Mean Delay:       17.3333 ms
+  Mean Jitter:      25 ms
+
+Flow 96 (10.1.0.3:654 -> 10.1.0.8:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00043649 Mbps
+  Mean Delay:       884.75 ms
+  Mean Jitter:      506.333 ms
+
+Flow 97 (10.1.0.8:654 -> 10.1.0.1:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0728788 Mbps
+  Mean Delay:       5 ms
+  Mean Jitter:      0 ms
+
+Flow 98 (10.1.0.8:654 -> 10.1.0.18:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       6.59978e-05 Mbps
+  Mean Delay:       0.666667 ms
+  Mean Jitter:      0.2 ms
+
+Flow 99 (10.1.0.20:654 -> 10.1.0.10:654)
+  Tx Packets:       1
+  Rx Packets:       0
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 100 (10.1.0.20:654 -> 10.1.0.12:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       7.58351e-05 Mbps
+  Mean Delay:       4.5 ms
+  Mean Jitter:      3.66667 ms
+
+Flow 101 (10.1.0.10:654 -> 10.1.0.18:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       7.6862e-05 Mbps
+  Mean Delay:       2 ms
+  Mean Jitter:      2.5 ms
+
+Flow 102 (10.1.0.6:654 -> 10.1.0.16:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.127867 Mbps
+  Mean Delay:       3 ms
+  Mean Jitter:      0 ms
+
+Flow 103 (10.1.0.16:654 -> 10.1.0.6:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0483043 Mbps
+  Mean Delay:       4 ms
+  Mean Jitter:      0 ms
+
+Flow 104 (10.1.0.19:654 -> 10.1.0.17:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000216123 Mbps
+  Mean Delay:       91.6667 ms
+  Mean Jitter:      244 ms
+
+Flow 105 (10.1.0.17:654 -> 10.1.0.4:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       8.31046e-05 Mbps
+  Mean Delay:       2.83333 ms
+  Mean Jitter:      2.6 ms
+
+Flow 106 (10.1.0.4:654 -> 10.1.0.18:654)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       0.00020372 Mbps
+  Mean Delay:       3.33333 ms
+  Mean Jitter:      4.5 ms
+
+Flow 107 (10.1.0.19:49154 -> 10.1.0.2:9002)
+  Tx Packets:       4119
+  Rx Packets:       3913
+  Lost Packets:     205
+  Retx (forwarded): 4965
+  Packet Loss:      4.97694 %
+  Throughput:       0.745418 Mbps
+  Mean Delay:       56.2648 ms
+  Mean Jitter:      5.60302 ms
+
+Flow 108 (10.1.0.2:9002 -> 10.1.0.19:49154)
+  Tx Packets:       2001
+  Rx Packets:       1951
+  Lost Packets:     50
+  Retx (forwarded): 2317
+  Packet Loss:      2.49875 %
+  Throughput:       0.0342722 Mbps
+  Mean Delay:       30.8447 ms
+  Mean Jitter:      8.24923 ms
+
+Flow 109 (10.1.0.20:654 -> 10.1.0.2:654)
+  Tx Packets:       9
+  Rx Packets:       9
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000547104 Mbps
+  Mean Delay:       10.6667 ms
+  Mean Jitter:      8.75 ms
+
+Flow 110 (10.1.0.12:654 -> 10.1.0.20:654)
+  Tx Packets:       7
+  Rx Packets:       6
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      14.2857 %
+  Throughput:       0.000121478 Mbps
+  Mean Delay:       7 ms
+  Mean Jitter:      4 ms
+
+Flow 111 (10.1.0.6:654 -> 10.1.0.2:654)
+  Tx Packets:       12
+  Rx Packets:       12
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000263613 Mbps
+  Mean Delay:       4.5 ms
+  Mean Jitter:      4.72727 ms
+
+Flow 112 (10.1.0.2:654 -> 10.1.0.6:654)
+  Tx Packets:       9
+  Rx Packets:       6
+  Lost Packets:     3
+  Retx (forwarded): 0
+  Packet Loss:      33.3333 %
+  Throughput:       9.92856e-05 Mbps
+  Mean Delay:       179 ms
+  Mean Jitter:      212.4 ms
+
+Flow 113 (10.1.0.7:654 -> 10.1.0.6:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000190361 Mbps
+  Mean Delay:       4.5 ms
+  Mean Jitter:      4 ms
+
+Flow 114 (10.1.0.6:654 -> 10.1.0.7:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000332451 Mbps
+  Mean Delay:       3 ms
+  Mean Jitter:      3 ms
+
+Flow 115 (10.1.0.20:654 -> 10.1.0.7:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000382566 Mbps
+  Mean Delay:       1002.5 ms
+  Mean Jitter:      2000 ms
+
+Flow 116 (10.1.0.7:654 -> 10.1.0.20:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       0.0290397 Mbps
+  Mean Delay:       8 ms
+  Mean Jitter:      0 ms
+
+Flow 117 (10.1.0.4:654 -> 10.1.0.2:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000499474 Mbps
+  Mean Delay:       358.167 ms
+  Mean Jitter:      217.6 ms
+
+Flow 118 (10.1.0.4:654 -> 10.1.0.19:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000332808 Mbps
+  Mean Delay:       9.5 ms
+  Mean Jitter:      5 ms
+
+Flow 119 (10.1.0.4:654 -> 10.1.0.6:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0294756 Mbps
+  Mean Delay:       13 ms
+  Mean Jitter:      0 ms
+
+Flow 120 (10.1.0.12:654 -> 10.1.0.6:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.105545 Mbps
+  Mean Delay:       3 ms
+  Mean Jitter:      0 ms
+
+Flow 121 (10.1.0.4:654 -> 10.1.0.12:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000356776 Mbps
+  Mean Delay:       15.5 ms
+  Mean Jitter:      16 ms
+
+Flow 122 (10.1.0.17:654 -> 10.1.0.10:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000154219 Mbps
+  Mean Delay:       3 ms
+  Mean Jitter:      2.33333 ms
+
+Flow 123 (10.1.0.2:654 -> 10.1.0.4:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000403662 Mbps
+  Mean Delay:       17.5 ms
+  Mean Jitter:      13.2 ms
+
+Flow 124 (10.1.0.11:654 -> 10.1.0.3:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000383563 Mbps
+  Mean Delay:       1001 ms
+  Mean Jitter:      0 ms
+
+Flow 125 (10.1.0.11:654 -> 10.1.0.19:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000351364 Mbps
+  Mean Delay:       25.6 ms
+  Mean Jitter:      28.5 ms
+
+Flow 126 (10.1.0.15:654 -> 10.1.0.5:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0110542 Mbps
+  Mean Delay:       38.5 ms
+  Mean Jitter:      48 ms
+
+Flow 127 (10.1.0.5:654 -> 10.1.0.15:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00024449 Mbps
+  Mean Delay:       18.5 ms
+  Mean Jitter:      30 ms
+
+Flow 128 (10.1.0.5:654 -> 10.1.0.17:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00033973 Mbps
+  Mean Delay:       4.33333 ms
+  Mean Jitter:      2.5 ms
+
+Flow 129 (10.1.0.17:654 -> 10.1.0.2:654)
+  Tx Packets:       7
+  Rx Packets:       5
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      28.5714 %
+  Throughput:       0.000202882 Mbps
+  Mean Delay:       4.2 ms
+  Mean Jitter:      5 ms
+
+Flow 130 (10.1.0.3:654 -> 10.1.0.11:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0011162 Mbps
+  Mean Delay:       6.25 ms
+  Mean Jitter:      5 ms
+
+Flow 131 (10.1.0.3:654 -> 10.1.0.17:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0354374 Mbps
+  Mean Delay:       10 ms
+  Mean Jitter:      0 ms
+
+Flow 132 (10.1.0.17:654 -> 10.1.0.3:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0278688 Mbps
+  Mean Delay:       13 ms
+  Mean Jitter:      0 ms
+
+Flow 133 (10.1.0.11:654 -> 10.1.0.2:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00019066 Mbps
+  Mean Delay:       2014 ms
+  Mean Jitter:      0 ms
+
+Flow 134 (10.1.0.3:654 -> 10.1.0.14:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000382455 Mbps
+  Mean Delay:       1004 ms
+  Mean Jitter:      0 ms
+
+Flow 135 (10.1.0.10:654 -> 10.1.0.2:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.103642 Mbps
+  Mean Delay:       3 ms
+  Mean Jitter:      0 ms
+
+Flow 136 (10.1.0.2:654 -> 10.1.0.11:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0226917 Mbps
+  Mean Delay:       10 ms
+  Mean Jitter:      0 ms
+
+=== SUMMARY ===
+TCP Variant:        plus
+Nodes:              20
+Flows:              3
+Sim Time:           120 s
+Total Tx Packets:   19585
+Total Rx Packets:   19025
+Total Lost Packets: 559
+Retransmissions:    21654
+Packet Loss Rate:   2.85423 %
+Total Throughput:   2.9302 Mbps
+Mean Delay:         48.0833 ms
+Mean Jitter:        9.04439 ms
+
+Simulation finished.

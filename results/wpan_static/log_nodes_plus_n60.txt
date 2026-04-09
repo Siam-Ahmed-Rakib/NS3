@@ -1,0 +1,28 @@
+Flow 0: node 53 -> node 33 port=9000
+Flow 1: node 39 -> node 12 port=9001
+Flow 2: node 27 -> node 48 port=9002
+Flow 3: node 11 -> node 43 port=9003
+Flow 4: node 24 -> node 23 port=9004
+Flow 5: node 12 -> node 17 port=9005
+Flow 6: node 19 -> node 15 port=9006
+Flow 7: node 14 -> node 47 port=9007
+Flow 8: node 8 -> node 15 port=9008
+Flow 9: node 1 -> node 41 port=9009
+
+=== SUMMARY ===
+TCP Variant:        plus
+Nodes:              60
+Flows:              10
+PacketsPerSec:      100
+CoverageMultiplier: 1
+Sim Time:           60 s
+Total Tx Packets:   6530
+Total Rx Packets:   6033
+Total Lost Packets: 416
+Packet Delivery:    92.389 %
+Packet Drop Ratio:  6.3706 %
+Total Throughput:   0.114027 Mbps
+Mean Delay:         51.5646 ms
+Energy Consumed:    6.6733 J
+
+Simulation finished.

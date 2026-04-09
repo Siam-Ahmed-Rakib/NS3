@@ -1,0 +1,10 @@
+Flow 0: node 25 -> node 56 port=9000 rate=819200bps
+Flow 1: node 79 -> node 94 port=9001 rate=819200bps
+Flow 2: node 20 -> node 46 port=9002 rate=819200bps
+Flow 3: node 99 -> node 16 port=9003 rate=819200bps
+Flow 4: node 70 -> node 18 port=9004 rate=819200bps
+Flow 5: node 52 -> node 10 port=9005 rate=819200bps
+Flow 6: node 2 -> node 34 port=9006 rate=819200bps
+Flow 7: node 35 -> node 46 port=9007 rate=819200bps
+Flow 8: node 0 -> node 53 port=9008 rate=819200bps
+Flow 9: node 31 -> node 30 port=9009 rate=819200bps

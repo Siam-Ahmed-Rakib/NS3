@@ -1,0 +1,28 @@
+Flow 0: node 37 -> node 57 port=9000 rate=819200bps
+Flow 1: node 52 -> node 29 port=9001 rate=819200bps
+Flow 2: node 52 -> node 21 port=9002 rate=819200bps
+Flow 3: node 32 -> node 30 port=9003 rate=819200bps
+Flow 4: node 22 -> node 5 port=9004 rate=819200bps
+Flow 5: node 12 -> node 22 port=9005 rate=819200bps
+Flow 6: node 22 -> node 19 port=9006 rate=819200bps
+Flow 7: node 40 -> node 27 port=9007 rate=819200bps
+Flow 8: node 14 -> node 23 port=9008 rate=819200bps
+Flow 9: node 23 -> node 15 port=9009 rate=819200bps
+
+=== SUMMARY ===
+TCP Variant:        plus
+Nodes:              60
+Flows:              10
+PacketsPerSec:      100
+Speed:              5 m/s
+Sim Time:           30 s
+Total Tx Packets:   23795
+Total Rx Packets:   20820
+Total Lost Packets: 2603
+Packet Delivery:    87.4974 %
+Packet Drop Ratio:  10.9393 %
+Total Throughput:   8.4285 Mbps
+Mean Delay:         180.227 ms
+Energy Consumed:    1554.93 J
+
+Simulation finished.

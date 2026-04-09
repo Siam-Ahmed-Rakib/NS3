@@ -1,0 +1,38 @@
+Flow 0: UE[15] -> RemoteHost port=50000 rate=819200bps
+Flow 1: UE[10] -> RemoteHost port=50001 rate=819200bps
+Flow 2: UE[2] -> RemoteHost port=50002 rate=819200bps
+Flow 3: UE[2] -> RemoteHost port=50003 rate=819200bps
+Flow 4: UE[29] -> RemoteHost port=50004 rate=819200bps
+Flow 5: UE[19] -> RemoteHost port=50005 rate=819200bps
+Flow 6: UE[32] -> RemoteHost port=50006 rate=819200bps
+Flow 7: UE[26] -> RemoteHost port=50007 rate=819200bps
+Flow 8: UE[29] -> RemoteHost port=50008 rate=819200bps
+Flow 9: UE[18] -> RemoteHost port=50009 rate=819200bps
+Flow 10: UE[21] -> RemoteHost port=50010 rate=819200bps
+Flow 11: UE[5] -> RemoteHost port=50011 rate=819200bps
+Flow 12: UE[28] -> RemoteHost port=50012 rate=819200bps
+Flow 13: UE[26] -> RemoteHost port=50013 rate=819200bps
+Flow 14: UE[35] -> RemoteHost port=50014 rate=819200bps
+Flow 15: UE[12] -> RemoteHost port=50015 rate=819200bps
+Flow 16: UE[34] -> RemoteHost port=50016 rate=819200bps
+Flow 17: UE[20] -> RemoteHost port=50017 rate=819200bps
+Flow 18: UE[9] -> RemoteHost port=50018 rate=819200bps
+Flow 19: UE[18] -> RemoteHost port=50019 rate=819200bps
+
+=== SUMMARY ===
+TCP Variant:        plus
+Nodes:              40
+Flows:              20
+PacketsPerSec:      100
+Speed:              5 m/s
+Sim Time:           30 s
+Total Tx Packets:   76386
+Total Rx Packets:   75986
+Total Lost Packets: 205
+Packet Delivery:    99.4763 %
+Packet Drop Ratio:  0.268374 %
+Total Throughput:   18.8104 Mbps
+Mean Delay:         26.6092 ms
+Energy Consumed:    174.379 J
+
+Simulation finished.

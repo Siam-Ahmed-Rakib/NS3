@@ -1,0 +1,3616 @@
+Flow 0: node 4 -> node 0 port=9000 start=27.9567s maxBytes=44695845
+Flow 1: node 8 -> node 18 port=9001 start=51.2964s maxBytes=39522644
+Flow 2: node 9 -> node 1 port=9002 start=87.6828s maxBytes=28467209
+Flow 3: node 3 -> node 12 port=9003 start=45.3624s maxBytes=30768463
+Flow 4: node 17 -> node 14 port=9004 start=91.0345s maxBytes=19451076
+Flow 5: node 12 -> node 6 port=9005 start=52.9284s maxBytes=38360992
+Flow 6: node 4 -> node 3 port=9006 start=73.0864s maxBytes=10895144
+Flow 7: node 10 -> node 1 port=9007 start=11.1404s maxBytes=30316260
+Flow 8: node 3 -> node 10 port=9008 start=75.4489s maxBytes=587798
+Flow 9: node 11 -> node 2 port=9009 start=83.3851s maxBytes=49074279
+Flow 10: node 6 -> node 5 port=9010 start=83.4858s maxBytes=2228686
+Flow 11: node 18 -> node 14 port=9011 start=87.7374s maxBytes=46029355
+Flow 12: node 3 -> node 2 port=9012 start=56.7503s maxBytes=19953996
+Flow 13: node 3 -> node 1 port=9013 start=99.2496s maxBytes=8353254
+Flow 14: node 7 -> node 18 port=9014 start=76.1136s maxBytes=18200158
+Flow 15: node 13 -> node 9 port=9015 start=107.416s maxBytes=35783667
+Flow 16: node 16 -> node 7 port=9016 start=77.751s maxBytes=44716701
+12.395	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	5120
+16.157	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	512
+24.7108	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1024
+24.7187	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1280
+24.7269	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1484
+24.7351	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1660
+24.7442	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1817
+24.7581	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1961
+24.7669	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2094
+24.7771	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2219
+24.7865	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2337
+24.7958	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2449
+24.814	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2556
+24.8285	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2658
+24.8375	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2756
+24.8475	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2480
+24.8609	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2232
+24.8702	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2008
+24.8796	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1807
+24.8893	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1626
+24.9064	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1463
+24.9115	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1316
+24.92	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1184
+24.9279	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1065
+24.9364	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	958
+25.1405	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1470
+25.149	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1323
+25.1566	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1190
+25.1643	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1071
+25.1728	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	963
+25.3774	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1475
+25.3853	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1327
+25.3931	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1194
+25.4013	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1074
+25.4096	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	966
+25.6136	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1478
+25.6221	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1330
+25.6301	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1197
+25.6383	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1077
+25.6463	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	969
+25.8504	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1481
+25.8581	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1332
+25.869	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1198
+25.878	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1078
+25.8862	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	970
+26.0904	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1482
+26.0982	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1333
+26.1071	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1199
+26.1152	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1079
+26.1237	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	971
+26.3282	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1483
+26.3366	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1334
+26.3468	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1200
+26.3548	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1080
+26.3669	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	972
+26.5714	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1484
+26.5908	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1335
+26.5994	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1201
+26.6074	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1080
+26.6152	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	972
+26.8196	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1484
+26.8317	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1335
+26.8398	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1201
+26.8481	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1080
+26.8561	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	972
+27.0608	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1484
+27.0727	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1335
+27.0812	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1201
+27.0912	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1080
+27.1012	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	972
+27.3055	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1484
+27.3136	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1335
+27.3224	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1201
+27.3306	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1080
+27.3404	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	972
+27.5446	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1484
+27.5525	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1335
+27.5687	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1201
+27.577	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1080
+27.5881	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	972
+27.7928	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1484
+27.802	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1335
+27.812	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1201
+27.8217	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1080
+27.8295	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	972
+27.9579	/NodeList/0/$ns3::TcpL4Protocol/SocketList/0/CongestionWindow	CWND	5120
+28.0349	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1484
+28.0678	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1335
+28.0779	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1201
+29.0779	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	512
+35.6636	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1024
+35.6695	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1536
+35.6788	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2048
+35.6886	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1843
+35.6954	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1658
+35.7036	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2170
+35.7086	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1953
+35.7148	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1757
+35.7204	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1581
+35.7257	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2093
+35.7366	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1883
+35.7388	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1694
+35.7463	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2206
+35.7538	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1985
+35.7579	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1786
+35.7663	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1607
+35.772	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2119
+35.7804	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1907
+35.7821	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1716
+35.7902	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2228
+35.8041	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2005
+35.8107	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1804
+35.8223	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1623
+35.8265	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2135
+35.8354	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1921
+35.8431	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1728
+35.8499	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2240
+35.8567	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2016
+35.863	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1814
+35.8693	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1632
+35.8769	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2144
+35.8835	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1929
+35.8882	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1736
+35.8951	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1562
+35.9018	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2074
+35.9077	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1866
+35.9132	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1679
+35.9195	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2191
+35.927	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1971
+35.9352	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1773
+35.9421	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1595
+35.9464	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2107
+35.9564	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1896
+35.9582	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1706
+35.9634	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2218
+35.9739	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1996
+35.9757	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1796
+35.9811	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1616
+35.9891	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2128
+35.9976	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1915
+35.9996	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1723
+36.0067	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2235
+36.0146	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2011
+36.019	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+36.0242	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+36.0311	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+36.0372	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+36.0418	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+36.0489	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+36.0551	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+36.0592	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+36.0659	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+36.0712	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+36.0811	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+36.0828	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+36.0878	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+36.0962	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+36.103	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+36.105	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+36.1127	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+36.1195	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+36.1278	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+36.1334	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+36.1395	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+36.1466	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+36.152	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+36.1577	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+36.1641	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+36.1697	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+36.1761	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+36.1801	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+36.1879	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+36.1918	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+36.1985	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+36.2054	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+36.218	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+36.448	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+36.4541	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+36.4605	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+36.466	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+36.4704	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+36.4777	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+36.4824	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+36.489	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+36.4936	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+36.5067	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+36.5085	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+36.5154	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+36.5197	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+36.5259	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+36.5333	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+36.5407	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+36.5489	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+36.5505	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+36.5561	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+36.5648	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+36.5728	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+36.5747	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+36.5821	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+36.5876	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+36.5916	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+36.5998	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+36.6057	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+36.6139	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+36.616	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+36.6231	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+36.6273	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+36.6399	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+36.6417	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+36.6507	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+36.6591	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+36.6607	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+36.6674	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+36.6727	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+36.6785	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+36.6831	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+36.6899	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+36.6938	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+36.712	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+36.7176	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+36.7245	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+36.7358	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+36.7378	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+36.7419	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+36.7476	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+36.7556	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+36.7611	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+36.7683	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+36.7718	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+36.7786	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+36.7855	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+36.7899	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+36.7997	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+36.8013	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+36.8057	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+36.8147	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+36.8212	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+36.8263	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+36.8319	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+36.8378	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+36.843	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+36.8497	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+36.8564	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+36.8605	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+36.8673	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+36.8735	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+36.8896	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+36.8974	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+36.904	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+36.9098	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+36.9208	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+36.9228	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+36.9278	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+36.9369	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+36.9414	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+36.9462	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+36.9515	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+36.9601	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+36.967	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+36.973	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+36.9817	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+36.9832	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+36.9872	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+36.9958	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+37.0018	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+37.0086	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+37.0145	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+37.0197	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+37.0279	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+37.034	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+37.0398	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+37.0498	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+37.0515	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+37.0554	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+37.0615	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+37.0679	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+37.0739	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+37.0779	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+37.0842	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+37.0909	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+37.094	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+37.1009	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+37.107	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+37.1141	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+37.12	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+37.1263	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+37.1314	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+37.135	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+37.1408	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+37.1467	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+37.1527	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+37.1618	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+37.1661	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+37.1726	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+37.1772	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+37.1835	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+37.1894	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+37.1966	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+37.2025	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+37.2082	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+37.2162	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+37.2178	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+37.2243	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+37.2299	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+37.2391	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+37.2438	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+37.2533	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+37.2641	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+37.2736	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+37.2803	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+37.2883	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+37.2899	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+37.2967	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+37.3025	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+37.3086	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+37.3129	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+37.3203	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+37.3259	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+37.3298	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+37.3358	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+37.3427	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+37.3525	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+37.3544	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+37.3619	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+37.3677	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+37.3714	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+37.3783	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+37.3835	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+37.3892	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+37.3947	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+37.4021	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+37.4089	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+37.4186	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+37.4204	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+37.4275	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+37.4357	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+37.4497	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+37.4542	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+37.4622	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+37.4679	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+37.4728	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+37.4775	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+37.4834	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+37.4902	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+37.4981	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+37.5022	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+37.5094	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+37.5128	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+37.5193	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+37.5268	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+37.535	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+37.5365	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+37.5437	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+37.5568	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+37.5638	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+37.5693	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+37.5746	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+37.5813	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+37.5861	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+37.5903	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+37.5996	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+37.6054	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+37.6122	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+37.6172	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+37.6215	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+37.6291	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+37.6332	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+37.6407	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+37.6462	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+37.6518	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+37.6594	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+37.6671	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+37.6722	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+37.6801	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+37.6877	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+37.6952	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+37.698	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+37.7048	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+37.7098	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+37.7159	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+37.7213	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+37.7278	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+37.7349	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+37.7393	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+37.7463	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+37.7533	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+37.7646	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+37.7704	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+37.7748	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+37.7839	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+37.7885	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+37.7951	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+37.801	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+37.8068	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+37.8134	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+37.8174	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+37.8248	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+37.8317	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+37.8363	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+37.8434	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+37.8487	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+37.8536	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+37.8609	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+37.8642	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+37.87	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+37.8779	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+37.8817	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+37.8901	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+37.8967	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+37.9017	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+37.9097	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+37.9166	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+37.9227	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+37.927	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+37.9341	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+37.9401	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+37.9441	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+37.952	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+37.9563	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+37.9605	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+37.9668	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+37.9765	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+37.9781	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+37.9852	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+37.9883	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+37.9993	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+38.001	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+38.0056	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+38.0158	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+38.0179	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+38.0248	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+38.0306	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+38.0373	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+38.0429	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+38.0471	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+38.0537	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+38.0586	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+38.0652	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+38.0737	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+38.0823	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+38.0845	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+38.0914	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+38.0997	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+38.1061	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+38.1205	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+38.1242	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+38.1302	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+38.1384	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+38.1425	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+38.1483	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+38.1573	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+38.1589	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+38.1651	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+38.1735	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+38.1805	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+38.1874	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+38.1916	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+38.1988	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+38.2037	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+38.2093	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+38.2158	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+38.2244	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+38.2311	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+38.2364	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+38.2398	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+38.2533	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+38.2564	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+38.2637	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+38.2703	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+38.2756	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+38.2812	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+38.2849	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+38.2923	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+38.2982	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+38.3035	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+38.3088	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+38.3126	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+38.3192	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+38.3298	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+38.3318	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+38.3386	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+38.3442	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+38.3474	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+38.3547	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+38.3625	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+38.3701	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+38.3762	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+38.3804	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+38.3868	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+38.3923	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+38.3998	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+38.4038	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+38.4135	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+38.4212	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+38.4277	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+38.4403	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+38.4528	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+38.4605	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+38.467	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+38.4715	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+38.4798	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+38.486	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+38.4912	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+38.5016	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+38.5033	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+38.5115	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+38.5163	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+38.524	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+38.5286	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+38.534	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+38.5393	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+38.5439	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+38.5514	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+38.5583	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+38.5665	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+38.5685	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+38.5753	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+38.5789	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+38.5847	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+38.5914	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+38.599	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+38.6042	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+38.6111	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+38.6151	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+38.6248	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+38.6318	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+38.6381	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+38.6463	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+38.6543	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+38.6623	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+38.6708	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+38.6759	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+38.6833	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+38.6893	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+38.6954	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+38.7028	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+38.7088	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+38.7164	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+38.7209	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+38.7303	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+38.7322	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+38.7373	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+38.7422	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+38.7495	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+38.7555	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+38.7623	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+38.7691	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+38.7755	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+38.7814	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+38.7869	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+38.7919	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+38.7969	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+38.8052	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+38.8118	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+38.8177	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+38.8216	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+38.8283	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+38.8368	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+38.8416	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+38.8475	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+38.8525	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+38.8602	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+38.8638	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+38.8704	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+38.8793	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+38.881	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+38.8864	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+38.8928	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+38.899	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+38.9063	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+38.9117	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+38.9188	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+38.9241	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+38.9323	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+38.9372	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+38.947	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+38.9488	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+38.9554	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+38.9638	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+38.9654	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+38.9708	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+38.9782	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+38.9864	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+38.9934	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+38.9974	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+39.0039	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+39.011	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+39.0193	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+39.0238	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+39.0406	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+39.0448	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+39.0501	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+39.0589	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+39.0605	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+39.0677	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+39.0717	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+39.0795	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+39.0848	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+39.0901	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+39.0979	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+39.1068	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+39.1082	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+39.1156	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+39.1229	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+39.1261	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+39.1326	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+39.1384	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+39.1474	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+39.1549	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+39.1602	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+39.1701	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+39.176	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+39.181	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+39.1868	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+39.1956	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1914
+39.2019	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1722
+39.2235	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2234
+39.2323	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2010
+39.237	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1809
+39.2427	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1628
+39.25	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2140
+39.258	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1926
+39.264	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1733
+39.2684	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1559
+39.2738	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2071
+39.2818	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1863
+39.2863	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1676
+39.2922	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2188
+39.2998	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1969
+39.308	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1772
+39.3138	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1594
+39.3195	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2106
+39.3246	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1895
+39.3306	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1705
+39.3358	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2217
+39.3425	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1995
+39.3488	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1795
+39.3546	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	1615
+39.3601	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	2127
+40.3601	/NodeList/10/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	512
+46.655	/NodeList/12/$ns3::TcpL4Protocol/SocketList/0/CongestionWindow	CWND	5120
+54.3231	/NodeList/18/$ns3::TcpL4Protocol/SocketList/0/CongestionWindow	CWND	5120
+57.803	/NodeList/2/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	5120
+64.442	/NodeList/6/$ns3::TcpL4Protocol/SocketList/0/CongestionWindow	CWND	5120
+73.0875	/NodeList/3/$ns3::TcpL4Protocol/SocketList/0/CongestionWindow	CWND	5120
+75.7451	/NodeList/10/$ns3::TcpL4Protocol/SocketList/0/CongestionWindow	CWND	5120
+81.8984	/NodeList/7/$ns3::TcpL4Protocol/SocketList/0/CongestionWindow	CWND	5120
+85.696	/NodeList/18/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	5120
+90.7091	/NodeList/1/$ns3::TcpL4Protocol/SocketList/0/CongestionWindow	CWND	5120
+99.3096	/NodeList/1/$ns3::TcpL4Protocol/SocketList/2/CongestionWindow	CWND	5120
+104.387	/NodeList/2/$ns3::TcpL4Protocol/SocketList/0/CongestionWindow	CWND	5120
+107.455	/NodeList/9/$ns3::TcpL4Protocol/SocketList/0/CongestionWindow	CWND	5120
+108.767	/NodeList/14/$ns3::TcpL4Protocol/SocketList/1/CongestionWindow	CWND	5120
+
+Flow 1 (10.1.0.11:49153 -> 10.1.0.2:9007)
+  Tx Packets:       1283
+  Rx Packets:       1265
+  Lost Packets:     18
+  Retx (forwarded): 1434
+  Packet Loss:      1.40296 %
+  Throughput:       0.0625042 Mbps
+  Mean Delay:       9.92648 ms
+  Mean Jitter:      8.47706 ms
+
+Flow 2 (10.1.0.15:654 -> 10.1.0.19:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000298238 Mbps
+  Mean Delay:       291.286 ms
+  Mean Jitter:      166.833 ms
+
+Flow 3 (10.1.0.15:654 -> 10.1.0.2:654)
+  Tx Packets:       7
+  Rx Packets:       6
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      14.2857 %
+  Throughput:       7.43632e-05 Mbps
+  Mean Delay:       5 ms
+  Mean Jitter:      5.2 ms
+
+Flow 4 (10.1.0.9:654 -> 10.1.0.1:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       3.39241e-05 Mbps
+  Mean Delay:       5.85714 ms
+  Mean Jitter:      8.5 ms
+
+Flow 5 (10.1.0.9:654 -> 10.1.0.2:654)
+  Tx Packets:       7
+  Rx Packets:       6
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      14.2857 %
+  Throughput:       2.91602e-05 Mbps
+  Mean Delay:       9.5 ms
+  Mean Jitter:      18 ms
+
+Flow 6 (10.1.0.20:654 -> 10.1.0.1:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.119336 Mbps
+  Mean Delay:       3 ms
+  Mean Jitter:      0 ms
+
+Flow 7 (10.1.0.20:654 -> 10.1.0.2:654)
+  Tx Packets:       9
+  Rx Packets:       8
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      11.1111 %
+  Throughput:       0.00012398 Mbps
+  Mean Delay:       3.125 ms
+  Mean Jitter:      3.57143 ms
+
+Flow 8 (10.1.0.1:654 -> 10.1.0.20:654)
+  Tx Packets:       3
+  Rx Packets:       2
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      33.3333 %
+  Throughput:       0.00154183 Mbps
+  Mean Delay:       5 ms
+  Mean Jitter:      4 ms
+
+Flow 9 (10.1.0.1:654 -> 10.1.0.19:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000627145 Mbps
+  Mean Delay:       1402 ms
+  Mean Jitter:      663 ms
+
+Flow 10 (10.1.0.1:654 -> 10.1.0.9:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.18206e-05 Mbps
+  Mean Delay:       345.667 ms
+  Mean Jitter:      518 ms
+
+Flow 11 (10.1.0.9:654 -> 10.1.0.6:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0607793 Mbps
+  Mean Delay:       6 ms
+  Mean Jitter:      0 ms
+
+Flow 12 (10.1.0.20:654 -> 10.1.0.6:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.14291e-05 Mbps
+  Mean Delay:       5 ms
+  Mean Jitter:      6 ms
+
+Flow 13 (10.1.0.6:654 -> 10.1.0.9:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.29942e-05 Mbps
+  Mean Delay:       2.66667 ms
+  Mean Jitter:      2.5 ms
+
+Flow 14 (10.1.0.6:654 -> 10.1.0.19:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.96654e-05 Mbps
+  Mean Delay:       3.6 ms
+  Mean Jitter:      2.25 ms
+
+Flow 15 (10.1.0.6:654 -> 10.1.0.20:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       3.30413e-05 Mbps
+  Mean Delay:       6.5 ms
+  Mean Jitter:      3.6 ms
+
+Flow 16 (10.1.0.19:654 -> 10.1.0.18:654)
+  Tx Packets:       15
+  Rx Packets:       14
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      6.66667 %
+  Throughput:       8.12826e-05 Mbps
+  Mean Delay:       2.35714 ms
+  Mean Jitter:      2.53846 ms
+
+Flow 17 (10.1.0.18:654 -> 10.1.0.11:654)
+  Tx Packets:       13
+  Rx Packets:       12
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      7.69231 %
+  Throughput:       0.000836013 Mbps
+  Mean Delay:       2.33333 ms
+  Mean Jitter:      1.72727 ms
+
+Flow 18 (10.1.0.2:9007 -> 10.1.0.11:49153)
+  Tx Packets:       645
+  Rx Packets:       636
+  Lost Packets:     9
+  Retx (forwarded): 725
+  Packet Loss:      1.39535 %
+  Throughput:       0.00961518 Mbps
+  Mean Delay:       3.67925 ms
+  Mean Jitter:      2.09764 ms
+
+Flow 19 (10.1.0.19:654 -> 10.1.0.15:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0566277 Mbps
+  Mean Delay:       7.5 ms
+  Mean Jitter:      0 ms
+
+Flow 20 (10.1.0.13:654 -> 10.1.0.16:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000140336 Mbps
+  Mean Delay:       500.5 ms
+  Mean Jitter:      1001 ms
+
+Flow 21 (10.1.0.13:654 -> 10.1.0.2:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0265489 Mbps
+  Mean Delay:       14 ms
+  Mean Jitter:      0 ms
+
+Flow 22 (10.1.0.17:654 -> 10.1.0.16:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       2.79503e-05 Mbps
+  Mean Delay:       14.5 ms
+  Mean Jitter:      29.6 ms
+
+Flow 23 (10.1.0.17:654 -> 10.1.0.2:654)
+  Tx Packets:       5
+  Rx Packets:       3
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      40 %
+  Throughput:       1.77754e-05 Mbps
+  Mean Delay:       3.66667 ms
+  Mean Jitter:      5 ms
+
+Flow 24 (10.1.0.16:654 -> 10.1.0.17:654)
+  Tx Packets:       12
+  Rx Packets:       12
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       5.18275e-05 Mbps
+  Mean Delay:       87.25 ms
+  Mean Jitter:      94.1818 ms
+
+Flow 25 (10.1.0.16:654 -> 10.1.0.18:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000272559 Mbps
+  Mean Delay:       0.666667 ms
+  Mean Jitter:      0.5 ms
+
+Flow 26 (10.1.0.5:654 -> 10.1.0.19:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000692293 Mbps
+  Mean Delay:       2 ms
+  Mean Jitter:      3 ms
+
+Flow 27 (10.1.0.5:654 -> 10.1.0.2:654)
+  Tx Packets:       12
+  Rx Packets:       0
+  Lost Packets:     12
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 28 (10.1.0.19:654 -> 10.1.0.5:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0215374 Mbps
+  Mean Delay:       11 ms
+  Mean Jitter:      0 ms
+
+Flow 29 (10.1.0.9:654 -> 10.1.0.15:654)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       1.26639e-05 Mbps
+  Mean Delay:       31 ms
+  Mean Jitter:      33.5 ms
+
+Flow 30 (10.1.0.20:654 -> 10.1.0.15:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       2.38272e-05 Mbps
+  Mean Delay:       6 ms
+  Mean Jitter:      11 ms
+
+Flow 31 (10.1.0.8:654 -> 10.1.0.15:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       5.29932e-05 Mbps
+  Mean Delay:       8.33333 ms
+  Mean Jitter:      12 ms
+
+Flow 32 (10.1.0.8:654 -> 10.1.0.2:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       3.02558e-05 Mbps
+  Mean Delay:       11 ms
+  Mean Jitter:      13.5 ms
+
+Flow 33 (10.1.0.15:654 -> 10.1.0.20:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       2.38387e-05 Mbps
+  Mean Delay:       5.5 ms
+  Mean Jitter:      10 ms
+
+Flow 34 (10.1.0.15:654 -> 10.1.0.8:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0225073 Mbps
+  Mean Delay:       10 ms
+  Mean Jitter:      0 ms
+
+Flow 35 (10.1.0.15:654 -> 10.1.0.9:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       2.58714e-05 Mbps
+  Mean Delay:       6 ms
+  Mean Jitter:      4 ms
+
+Flow 36 (10.1.0.16:654 -> 10.1.0.13:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       3.07376e-05 Mbps
+  Mean Delay:       2.25 ms
+  Mean Jitter:      2.33333 ms
+
+Flow 37 (10.1.0.18:654 -> 10.1.0.16:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00918161 Mbps
+  Mean Delay:       34 ms
+  Mean Jitter:      0 ms
+
+Flow 38 (10.1.0.7:654 -> 10.1.0.19:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.91873e-05 Mbps
+  Mean Delay:       3 ms
+  Mean Jitter:      3 ms
+
+Flow 39 (10.1.0.7:654 -> 10.1.0.2:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       9.09671e-05 Mbps
+  Mean Delay:       2.33333 ms
+  Mean Jitter:      0.5 ms
+
+Flow 40 (10.1.0.16:654 -> 10.1.0.2:654)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       1.38611e-05 Mbps
+  Mean Delay:       336 ms
+  Mean Jitter:      500.5 ms
+
+Flow 41 (10.1.0.17:654 -> 10.1.0.19:654)
+  Tx Packets:       11
+  Rx Packets:       11
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       4.77701e-05 Mbps
+  Mean Delay:       3.45455 ms
+  Mean Jitter:      4.4 ms
+
+Flow 42 (10.1.0.19:654 -> 10.1.0.7:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       2.34085e-05 Mbps
+  Mean Delay:       2 ms
+  Mean Jitter:      2.4 ms
+
+Flow 43 (10.1.0.19:654 -> 10.1.0.11:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       3.24618e-05 Mbps
+  Mean Delay:       2.28571 ms
+  Mean Jitter:      1.66667 ms
+
+Flow 44 (10.1.0.5:49153 -> 10.1.0.1:9000)
+  Tx Packets:       9802
+  Rx Packets:       9527
+  Lost Packets:     274
+  Retx (forwarded): 920
+  Packet Loss:      2.79535 %
+  Throughput:       0.481251 Mbps
+  Mean Delay:       117.967 ms
+  Mean Jitter:      2.2869 ms
+
+Flow 45 (10.1.0.1:9000 -> 10.1.0.5:49153)
+  Tx Packets:       4786
+  Rx Packets:       4771
+  Lost Packets:     14
+  Retx (forwarded): 819
+  Packet Loss:      0.29252 %
+  Throughput:       0.0230148 Mbps
+  Mean Delay:       1.54349 ms
+  Mean Jitter:      1.19623 ms
+
+Flow 46 (10.1.0.4:654 -> 10.1.0.5:654)
+  Tx Packets:       13
+  Rx Packets:       13
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       5.4789e-05 Mbps
+  Mean Delay:       21.6154 ms
+  Mean Jitter:      33.4167 ms
+
+Flow 47 (10.1.0.4:654 -> 10.1.0.1:654)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       2.03812e-05 Mbps
+  Mean Delay:       4.66667 ms
+  Mean Jitter:      6 ms
+
+Flow 48 (10.1.0.6:654 -> 10.1.0.5:654)
+  Tx Packets:       9
+  Rx Packets:       9
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       4.69667e-05 Mbps
+  Mean Delay:       5 ms
+  Mean Jitter:      6.5 ms
+
+Flow 49 (10.1.0.6:654 -> 10.1.0.1:654)
+  Tx Packets:       23
+  Rx Packets:       23
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       9.94184e-05 Mbps
+  Mean Delay:       3.04348 ms
+  Mean Jitter:      4.18182 ms
+
+Flow 50 (10.1.0.11:654 -> 10.1.0.5:654)
+  Tx Packets:       13
+  Rx Packets:       0
+  Lost Packets:     13
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 51 (10.1.0.11:654 -> 10.1.0.1:654)
+  Tx Packets:       17
+  Rx Packets:       17
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       8.76082e-05 Mbps
+  Mean Delay:       10 ms
+  Mean Jitter:      9.3125 ms
+
+Flow 52 (10.1.0.5:654 -> 10.1.0.4:654)
+  Tx Packets:       20
+  Rx Packets:       20
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000107096 Mbps
+  Mean Delay:       9.95 ms
+  Mean Jitter:      4.84211 ms
+
+Flow 53 (10.1.0.5:654 -> 10.1.0.6:654)
+  Tx Packets:       8
+  Rx Packets:       8
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       3.2166e-05 Mbps
+  Mean Delay:       7.375 ms
+  Mean Jitter:      8.28571 ms
+
+Flow 54 (10.1.0.20:654 -> 10.1.0.11:654)
+  Tx Packets:       9
+  Rx Packets:       9
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000307988 Mbps
+  Mean Delay:       7.88889 ms
+  Mean Jitter:      14 ms
+
+Flow 55 (10.1.0.15:654 -> 10.1.0.11:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000673194 Mbps
+  Mean Delay:       2.66667 ms
+  Mean Jitter:      2.5 ms
+
+Flow 56 (10.1.0.7:654 -> 10.1.0.11:654)
+  Tx Packets:       8
+  Rx Packets:       8
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000141794 Mbps
+  Mean Delay:       426.875 ms
+  Mean Jitter:      286.429 ms
+
+Flow 57 (10.1.0.11:654 -> 10.1.0.15:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00110309 Mbps
+  Mean Delay:       3.66667 ms
+  Mean Jitter:      5 ms
+
+Flow 58 (10.1.0.4:654 -> 10.1.0.11:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       3.93504e-05 Mbps
+  Mean Delay:       4.5 ms
+  Mean Jitter:      4.6 ms
+
+Flow 59 (10.1.0.11:654 -> 10.1.0.20:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       3.76846e-05 Mbps
+  Mean Delay:       14.25 ms
+  Mean Jitter:      8.33333 ms
+
+Flow 60 (10.1.0.1:654 -> 10.1.0.4:654)
+  Tx Packets:       4
+  Rx Packets:       0
+  Lost Packets:     4
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 61 (10.1.0.20:654 -> 10.1.0.5:654)
+  Tx Packets:       10
+  Rx Packets:       9
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      10 %
+  Throughput:       7.90004e-05 Mbps
+  Mean Delay:       2.44444 ms
+  Mean Jitter:      3.25 ms
+
+Flow 62 (10.1.0.7:654 -> 10.1.0.5:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.98174e-05 Mbps
+  Mean Delay:       210.5 ms
+  Mean Jitter:      388 ms
+
+Flow 63 (10.1.0.15:654 -> 10.1.0.5:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       6.17576e-05 Mbps
+  Mean Delay:       82.4 ms
+  Mean Jitter:      102.25 ms
+
+Flow 64 (10.1.0.10:654 -> 10.1.0.9:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00169333 Mbps
+  Mean Delay:       4 ms
+  Mean Jitter:      8 ms
+
+Flow 65 (10.1.0.10:654 -> 10.1.0.19:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.48657e-05 Mbps
+  Mean Delay:       2.33333 ms
+  Mean Jitter:      3 ms
+
+Flow 66 (10.1.0.5:654 -> 10.1.0.9:654)
+  Tx Packets:       2
+  Rx Packets:       0
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 67 (10.1.0.19:654 -> 10.1.0.2:654)
+  Tx Packets:       1
+  Rx Packets:       0
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 68 (10.1.0.9:654 -> 10.1.0.11:654)
+  Tx Packets:       10
+  Rx Packets:       10
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       7.08961e-05 Mbps
+  Mean Delay:       5.7 ms
+  Mean Jitter:      9.33333 ms
+
+Flow 69 (10.1.0.11:654 -> 10.1.0.7:654)
+  Tx Packets:       9
+  Rx Packets:       9
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       8.16563e-05 Mbps
+  Mean Delay:       5.55556 ms
+  Mean Jitter:      3.75 ms
+
+Flow 70 (10.1.0.9:654 -> 10.1.0.10:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0416602 Mbps
+  Mean Delay:       9 ms
+  Mean Jitter:      0 ms
+
+Flow 71 (10.1.0.19:654 -> 10.1.0.10:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.35274e-05 Mbps
+  Mean Delay:       1.66667 ms
+  Mean Jitter:      1.5 ms
+
+Flow 72 (10.1.0.4:654 -> 10.1.0.2:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000191929 Mbps
+  Mean Delay:       10.6667 ms
+  Mean Jitter:      12 ms
+
+Flow 73 (10.1.0.1:654 -> 10.1.0.6:654)
+  Tx Packets:       8
+  Rx Packets:       8
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       4.57217e-05 Mbps
+  Mean Delay:       7.75 ms
+  Mean Jitter:      12.4286 ms
+
+Flow 74 (10.1.0.6:654 -> 10.1.0.11:654)
+  Tx Packets:       10
+  Rx Packets:       10
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       5.41418e-05 Mbps
+  Mean Delay:       5.6 ms
+  Mean Jitter:      4.44444 ms
+
+Flow 75 (10.1.0.11:654 -> 10.1.0.4:654)
+  Tx Packets:       5
+  Rx Packets:       4
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      20 %
+  Throughput:       2.24642e-05 Mbps
+  Mean Delay:       3.25 ms
+  Mean Jitter:      4.33333 ms
+
+Flow 76 (10.1.0.5:654 -> 10.1.0.7:654)
+  Tx Packets:       2
+  Rx Packets:       0
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 77 (10.1.0.4:654 -> 10.1.0.14:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0117468 Mbps
+  Mean Delay:       40 ms
+  Mean Jitter:      31 ms
+
+Flow 78 (10.1.0.6:654 -> 10.1.0.14:654)
+  Tx Packets:       10
+  Rx Packets:       10
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       4.61273e-05 Mbps
+  Mean Delay:       4.4 ms
+  Mean Jitter:      5.77778 ms
+
+Flow 79 (10.1.0.14:654 -> 10.1.0.6:654)
+  Tx Packets:       8
+  Rx Packets:       8
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       3.57361e-05 Mbps
+  Mean Delay:       4.625 ms
+  Mean Jitter:      6 ms
+
+Flow 80 (10.1.0.14:654 -> 10.1.0.8:654)
+  Tx Packets:       13
+  Rx Packets:       13
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       0.000106006 Mbps
+  Mean Delay:       6.15385 ms
+  Mean Jitter:      7.5 ms
+
+Flow 81 (10.1.0.8:654 -> 10.1.0.5:654)
+  Tx Packets:       17
+  Rx Packets:       17
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000120402 Mbps
+  Mean Delay:       9.35294 ms
+  Mean Jitter:      15.0625 ms
+
+Flow 82 (10.1.0.14:654 -> 10.1.0.4:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0321549 Mbps
+  Mean Delay:       7 ms
+  Mean Jitter:      0 ms
+
+Flow 83 (10.1.0.2:654 -> 10.1.0.6:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.67986e-05 Mbps
+  Mean Delay:       4.33333 ms
+  Mean Jitter:      4.5 ms
+
+Flow 84 (10.1.0.5:654 -> 10.1.0.8:654)
+  Tx Packets:       10
+  Rx Packets:       10
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       6.40735e-05 Mbps
+  Mean Delay:       9.7 ms
+  Mean Jitter:      12 ms
+
+Flow 85 (10.1.0.8:654 -> 10.1.0.7:654)
+  Tx Packets:       15
+  Rx Packets:       15
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000204586 Mbps
+  Mean Delay:       13.0667 ms
+  Mean Jitter:      11.7143 ms
+
+Flow 86 (10.1.0.4:49153 -> 10.1.0.13:9003)
+  Tx Packets:       12975
+  Rx Packets:       12935
+  Lost Packets:     39
+  Retx (forwarded): 660
+  Packet Loss:      0.300578 %
+  Throughput:       1.64788 Mbps
+  Mean Delay:       195.583 ms
+  Mean Jitter:      1.89802 ms
+
+Flow 87 (10.1.0.2:654 -> 10.1.0.4:654)
+  Tx Packets:       5
+  Rx Packets:       0
+  Lost Packets:     5
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 88 (10.1.0.2:654 -> 10.1.0.13:654)
+  Tx Packets:       4
+  Rx Packets:       0
+  Lost Packets:     4
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 89 (10.1.0.15:654 -> 10.1.0.4:654)
+  Tx Packets:       4
+  Rx Packets:       0
+  Lost Packets:     4
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 90 (10.1.0.15:654 -> 10.1.0.13:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0012712 Mbps
+  Mean Delay:       1.5 ms
+  Mean Jitter:      2.33333 ms
+
+Flow 91 (10.1.0.6:654 -> 10.1.0.2:654)
+  Tx Packets:       8
+  Rx Packets:       7
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      12.5 %
+  Throughput:       4.75496e-05 Mbps
+  Mean Delay:       4.57143 ms
+  Mean Jitter:      6.83333 ms
+
+Flow 92 (10.1.0.11:654 -> 10.1.0.6:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       2.73068e-05 Mbps
+  Mean Delay:       9.2 ms
+  Mean Jitter:      15.5 ms
+
+Flow 93 (10.1.0.12:654 -> 10.1.0.5:654)
+  Tx Packets:       14
+  Rx Packets:       12
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      14.2857 %
+  Throughput:       7.05074e-05 Mbps
+  Mean Delay:       8.91667 ms
+  Mean Jitter:      10.7273 ms
+
+Flow 94 (10.1.0.12:654 -> 10.1.0.13:654)
+  Tx Packets:       4
+  Rx Packets:       2
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      50 %
+  Throughput:       4.18389e-05 Mbps
+  Mean Delay:       2 ms
+  Mean Jitter:      1 ms
+
+Flow 95 (10.1.0.18:654 -> 10.1.0.5:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0494576 Mbps
+  Mean Delay:       7 ms
+  Mean Jitter:      0 ms
+
+Flow 96 (10.1.0.18:654 -> 10.1.0.13:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       2.8819e-05 Mbps
+  Mean Delay:       10 ms
+  Mean Jitter:      5.75 ms
+
+Flow 97 (10.1.0.5:654 -> 10.1.0.18:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       4.5968e-05 Mbps
+  Mean Delay:       4.66667 ms
+  Mean Jitter:      6.5 ms
+
+Flow 98 (10.1.0.5:654 -> 10.1.0.17:654)
+  Tx Packets:       13
+  Rx Packets:       12
+  Lost Packets:     1
+  Retx (forwarded): 1
+  Packet Loss:      7.69231 %
+  Throughput:       9.32683e-05 Mbps
+  Mean Delay:       8.58333 ms
+  Mean Jitter:      9.54545 ms
+
+Flow 99 (10.1.0.5:654 -> 10.1.0.12:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       3.15399e-05 Mbps
+  Mean Delay:       7.85714 ms
+  Mean Jitter:      7 ms
+
+Flow 100 (10.1.0.19:654 -> 10.1.0.3:654)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       0.000629236 Mbps
+  Mean Delay:       4 ms
+  Mean Jitter:      3 ms
+
+Flow 101 (10.1.0.3:654 -> 10.1.0.10:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000136527 Mbps
+  Mean Delay:       5.25 ms
+  Mean Jitter:      4 ms
+
+Flow 102 (10.1.0.10:654 -> 10.1.0.4:654)
+  Tx Packets:       14
+  Rx Packets:       13
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      7.14286 %
+  Throughput:       6.50124e-05 Mbps
+  Mean Delay:       11.5385 ms
+  Mean Jitter:      20.9167 ms
+
+Flow 103 (10.1.0.13:9003 -> 10.1.0.4:49153)
+  Tx Packets:       6682
+  Rx Packets:       6678
+  Lost Packets:     4
+  Retx (forwarded): 558
+  Packet Loss:      0.0598623 %
+  Throughput:       0.0823658 Mbps
+  Mean Delay:       1.91569 ms
+  Mean Jitter:      0.597724 ms
+
+Flow 104 (10.1.0.7:654 -> 10.1.0.14:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       0.000111903 Mbps
+  Mean Delay:       92.4 ms
+  Mean Jitter:      199.25 ms
+
+Flow 105 (10.1.0.7:654 -> 10.1.0.8:654)
+  Tx Packets:       6
+  Rx Packets:       4
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      33.3333 %
+  Throughput:       4.00858e-05 Mbps
+  Mean Delay:       5 ms
+  Mean Jitter:      5.33333 ms
+
+Flow 106 (10.1.0.10:654 -> 10.1.0.14:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       6.08068e-05 Mbps
+  Mean Delay:       4.66667 ms
+  Mean Jitter:      4 ms
+
+Flow 107 (10.1.0.10:654 -> 10.1.0.8:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.139532 Mbps
+  Mean Delay:       2 ms
+  Mean Jitter:      0 ms
+
+Flow 108 (10.1.0.8:654 -> 10.1.0.14:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       3.16414e-05 Mbps
+  Mean Delay:       5.16667 ms
+  Mean Jitter:      6 ms
+
+Flow 109 (10.1.0.14:654 -> 10.1.0.10:654)
+  Tx Packets:       3
+  Rx Packets:       2
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      33.3333 %
+  Throughput:       4.63508e-05 Mbps
+  Mean Delay:       1003 ms
+  Mean Jitter:      2000 ms
+
+Flow 110 (10.1.0.14:654 -> 10.1.0.7:654)
+  Tx Packets:       8
+  Rx Packets:       6
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       0.000100289 Mbps
+  Mean Delay:       3.5 ms
+  Mean Jitter:      4.8 ms
+
+Flow 111 (10.1.0.7:654 -> 10.1.0.10:654)
+  Tx Packets:       3
+  Rx Packets:       2
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      33.3333 %
+  Throughput:       4.63601e-05 Mbps
+  Mean Delay:       7.5 ms
+  Mean Jitter:      5 ms
+
+Flow 112 (10.1.0.8:654 -> 10.1.0.10:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0439764 Mbps
+  Mean Delay:       8 ms
+  Mean Jitter:      0 ms
+
+Flow 113 (10.1.0.6:654 -> 10.1.0.4:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000383388 Mbps
+  Mean Delay:       1001 ms
+  Mean Jitter:      0 ms
+
+Flow 114 (10.1.0.9:654 -> 10.1.0.4:654)
+  Tx Packets:       3
+  Rx Packets:       2
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      33.3333 %
+  Throughput:       0.0655153 Mbps
+  Mean Delay:       5.5 ms
+  Mean Jitter:      10 ms
+
+Flow 115 (10.1.0.4:654 -> 10.1.0.9:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       0.0221405 Mbps
+  Mean Delay:       10 ms
+  Mean Jitter:      0 ms
+
+Flow 116 (10.1.0.4:654 -> 10.1.0.15:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00023631 Mbps
+  Mean Delay:       91.6667 ms
+  Mean Jitter:      137 ms
+
+Flow 117 (10.1.0.4:654 -> 10.1.0.6:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0221536 Mbps
+  Mean Delay:       10 ms
+  Mean Jitter:      0 ms
+
+Flow 118 (10.1.0.9:49153 -> 10.1.0.19:9001)
+  Tx Packets:       5
+  Rx Packets:       2
+  Lost Packets:     3
+  Retx (forwarded): 5
+  Packet Loss:      60 %
+  Throughput:       1.99075e-05 Mbps
+  Mean Delay:       17 ms
+  Mean Jitter:      18 ms
+
+Flow 119 (10.1.0.3:654 -> 10.1.0.8:654)
+  Tx Packets:       12
+  Rx Packets:       12
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       7.30594e-05 Mbps
+  Mean Delay:       7.83333 ms
+  Mean Jitter:      10.0909 ms
+
+Flow 120 (10.1.0.3:654 -> 10.1.0.19:654)
+  Tx Packets:       1
+  Rx Packets:       0
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 121 (10.1.0.8:654 -> 10.1.0.3:654)
+  Tx Packets:       10
+  Rx Packets:       10
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       5.69746e-05 Mbps
+  Mean Delay:       2.7 ms
+  Mean Jitter:      3.55556 ms
+
+Flow 122 (10.1.0.8:654 -> 10.1.0.20:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0233524 Mbps
+  Mean Delay:       5 ms
+  Mean Jitter:      8 ms
+
+Flow 123 (10.1.0.20:654 -> 10.1.0.9:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0319606 Mbps
+  Mean Delay:       2.5 ms
+  Mean Jitter:      4 ms
+
+Flow 124 (10.1.0.19:654 -> 10.1.0.17:654)
+  Tx Packets:       5
+  Rx Packets:       4
+  Lost Packets:     1
+  Retx (forwarded): 1
+  Packet Loss:      20 %
+  Throughput:       2.26077e-05 Mbps
+  Mean Delay:       49.25 ms
+  Mean Jitter:      128.333 ms
+
+Flow 125 (10.1.0.13:49153 -> 10.1.0.7:9005)
+  Tx Packets:       821
+  Rx Packets:       803
+  Lost Packets:     16
+  Retx (forwarded): 83
+  Packet Loss:      1.94884 %
+  Throughput:       0.0708218 Mbps
+  Mean Delay:       13.6986 ms
+  Mean Jitter:      9.80798 ms
+
+Flow 126 (10.1.0.4:654 -> 10.1.0.13:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       9.69915e-05 Mbps
+  Mean Delay:       193.5 ms
+  Mean Jitter:      372 ms
+
+Flow 127 (10.1.0.4:654 -> 10.1.0.7:654)
+  Tx Packets:       1
+  Rx Packets:       0
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 128 (10.1.0.13:654 -> 10.1.0.4:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       2.82918e-05 Mbps
+  Mean Delay:       7 ms
+  Mean Jitter:      9 ms
+
+Flow 129 (10.1.0.17:654 -> 10.1.0.5:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       6.20075e-05 Mbps
+  Mean Delay:       15.2 ms
+  Mean Jitter:      19.25 ms
+
+Flow 130 (10.1.0.14:654 -> 10.1.0.9:654)
+  Tx Packets:       3
+  Rx Packets:       2
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      33.3333 %
+  Throughput:       0.000219082 Mbps
+  Mean Delay:       2.5 ms
+  Mean Jitter:      4 ms
+
+Flow 131 (10.1.0.19:9001 -> 10.1.0.9:49153)
+  Tx Packets:       6
+  Rx Packets:       0
+  Lost Packets:     6
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 132 (10.1.0.1:654 -> 10.1.0.11:654)
+  Tx Packets:       10
+  Rx Packets:       10
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       8.3912e-05 Mbps
+  Mean Delay:       762.2 ms
+  Mean Jitter:      334.778 ms
+
+Flow 133 (10.1.0.1:654 -> 10.1.0.2:654)
+  Tx Packets:       14
+  Rx Packets:       13
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      7.14286 %
+  Throughput:       9.89519e-05 Mbps
+  Mean Delay:       125 ms
+  Mean Jitter:      92.25 ms
+
+Flow 134 (10.1.0.9:654 -> 10.1.0.7:654)
+  Tx Packets:       12
+  Rx Packets:       0
+  Lost Packets:     12
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 135 (10.1.0.9:654 -> 10.1.0.14:654)
+  Tx Packets:       3
+  Rx Packets:       2
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      33.3333 %
+  Throughput:       5.09864e-05 Mbps
+  Mean Delay:       3 ms
+  Mean Jitter:      6 ms
+
+Flow 136 (10.1.0.4:49154 -> 10.1.0.3:9012)
+  Tx Packets:       17
+  Rx Packets:       3
+  Lost Packets:     14
+  Retx (forwarded): 9
+  Packet Loss:      82.3529 %
+  Throughput:       0.000128825 Mbps
+  Mean Delay:       484.667 ms
+  Mean Jitter:      597.5 ms
+
+Flow 137 (10.1.0.8:654 -> 10.1.0.4:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000103282 Mbps
+  Mean Delay:       653.2 ms
+  Mean Jitter:      346.5 ms
+
+Flow 138 (10.1.0.17:654 -> 10.1.0.3:654)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       0.00113278 Mbps
+  Mean Delay:       744.333 ms
+  Mean Jitter:      197 ms
+
+Flow 139 (10.1.0.10:654 -> 10.1.0.3:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0374037 Mbps
+  Mean Delay:       10 ms
+  Mean Jitter:      0 ms
+
+Flow 140 (10.1.0.17:654 -> 10.1.0.4:654)
+  Tx Packets:       3
+  Rx Packets:       2
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      33.3333 %
+  Throughput:       2.20753e-05 Mbps
+  Mean Delay:       1004.5 ms
+  Mean Jitter:      1987 ms
+
+Flow 141 (10.1.0.4:654 -> 10.1.0.10:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       4.8662e-05 Mbps
+  Mean Delay:       78.5714 ms
+  Mean Jitter:      105.167 ms
+
+Flow 142 (10.1.0.3:9012 -> 10.1.0.4:49154)
+  Tx Packets:       6
+  Rx Packets:       3
+  Lost Packets:     3
+  Retx (forwarded): 13
+  Packet Loss:      50 %
+  Throughput:       2.91258e-05 Mbps
+  Mean Delay:       1937.33 ms
+  Mean Jitter:      2359.5 ms
+
+Flow 143 (10.1.0.4:654 -> 10.1.0.8:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       5.1784e-05 Mbps
+  Mean Delay:       475.4 ms
+  Mean Jitter:      191.75 ms
+
+Flow 144 (10.1.0.4:654 -> 10.1.0.17:654)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       2.5846e-05 Mbps
+  Mean Delay:       279.667 ms
+  Mean Jitter:      388 ms
+
+Flow 145 (10.1.0.11:654 -> 10.1.0.12:654)
+  Tx Packets:       6
+  Rx Packets:       0
+  Lost Packets:     6
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 146 (10.1.0.6:654 -> 10.1.0.12:654)
+  Tx Packets:       6
+  Rx Packets:       0
+  Lost Packets:     4
+  Retx (forwarded): 0
+  Packet Loss:      66.6667 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 147 (10.1.0.6:654 -> 10.1.0.7:654)
+  Tx Packets:       3
+  Rx Packets:       2
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      33.3333 %
+  Throughput:       0.00156843 Mbps
+  Mean Delay:       28 ms
+  Mean Jitter:      49 ms
+
+Flow 148 (10.1.0.20:654 -> 10.1.0.12:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000312944 Mbps
+  Mean Delay:       778.25 ms
+  Mean Jitter:      999.667 ms
+
+Flow 149 (10.1.0.20:654 -> 10.1.0.7:654)
+  Tx Packets:       10
+  Rx Packets:       9
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      10 %
+  Throughput:       9.06562e-05 Mbps
+  Mean Delay:       1.77778 ms
+  Mean Jitter:      1.5 ms
+
+Flow 150 (10.1.0.10:654 -> 10.1.0.13:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000355055 Mbps
+  Mean Delay:       9.6 ms
+  Mean Jitter:      13.75 ms
+
+Flow 151 (10.1.0.10:654 -> 10.1.0.7:654)
+  Tx Packets:       8
+  Rx Packets:       8
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000588664 Mbps
+  Mean Delay:       4 ms
+  Mean Jitter:      3.42857 ms
+
+Flow 152 (10.1.0.3:654 -> 10.1.0.17:654)
+  Tx Packets:       2
+  Rx Packets:       0
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 153 (10.1.0.3:654 -> 10.1.0.7:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000157056 Mbps
+  Mean Delay:       2444 ms
+  Mean Jitter:      0 ms
+
+Flow 154 (10.1.0.20:654 -> 10.1.0.17:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000227164 Mbps
+  Mean Delay:       765 ms
+  Mean Jitter:      1529 ms
+
+Flow 155 (10.1.0.11:654 -> 10.1.0.16:654)
+  Tx Packets:       5
+  Rx Packets:       4
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      20 %
+  Throughput:       4.9971e-05 Mbps
+  Mean Delay:       5.75 ms
+  Mean Jitter:      4.66667 ms
+
+Flow 156 (10.1.0.6:654 -> 10.1.0.16:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.035122 Mbps
+  Mean Delay:       10 ms
+  Mean Jitter:      0 ms
+
+Flow 157 (10.1.0.16:654 -> 10.1.0.11:654)
+  Tx Packets:       8
+  Rx Packets:       6
+  Lost Packets:     2
+  Retx (forwarded): 1
+  Packet Loss:      25 %
+  Throughput:       7.23977e-05 Mbps
+  Mean Delay:       339.667 ms
+  Mean Jitter:      405.8 ms
+
+Flow 158 (10.1.0.16:654 -> 10.1.0.6:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       8.00025e-05 Mbps
+  Mean Delay:       2999 ms
+  Mean Jitter:      0 ms
+
+Flow 159 (10.1.0.2:654 -> 10.1.0.16:654)
+  Tx Packets:       9
+  Rx Packets:       9
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000136842 Mbps
+  Mean Delay:       3.44444 ms
+  Mean Jitter:      5.375 ms
+
+Flow 160 (10.1.0.13:654 -> 10.1.0.10:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000252512 Mbps
+  Mean Delay:       5.25 ms
+  Mean Jitter:      4 ms
+
+Flow 161 (10.1.0.5:654 -> 10.1.0.13:654)
+  Tx Packets:       5
+  Rx Packets:       4
+  Lost Packets:     1
+  Retx (forwarded): 1
+  Packet Loss:      20 %
+  Throughput:       0.000106026 Mbps
+  Mean Delay:       119.5 ms
+  Mean Jitter:      308.333 ms
+
+Flow 162 (10.1.0.11:654 -> 10.1.0.10:654)
+  Tx Packets:       15
+  Rx Packets:       15
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000104285 Mbps
+  Mean Delay:       14.5333 ms
+  Mean Jitter:      15.9286 ms
+
+Flow 163 (10.1.0.11:654 -> 10.1.0.14:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000459284 Mbps
+  Mean Delay:       7.66667 ms
+  Mean Jitter:      10.5 ms
+
+Flow 164 (10.1.0.20:654 -> 10.1.0.10:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00012799 Mbps
+  Mean Delay:       3000 ms
+  Mean Jitter:      0 ms
+
+Flow 165 (10.1.0.20:654 -> 10.1.0.14:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000106842 Mbps
+  Mean Delay:       6.66667 ms
+  Mean Jitter:      9.5 ms
+
+Flow 166 (10.1.0.6:654 -> 10.1.0.10:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       4.05228e-05 Mbps
+  Mean Delay:       6 ms
+  Mean Jitter:      6.8 ms
+
+Flow 167 (10.1.0.17:654 -> 10.1.0.20:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000633807 Mbps
+  Mean Delay:       8.75 ms
+  Mean Jitter:      8 ms
+
+Flow 168 (10.1.0.17:654 -> 10.1.0.13:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000218869 Mbps
+  Mean Delay:       9.5 ms
+  Mean Jitter:      12 ms
+
+Flow 169 (10.1.0.10:654 -> 10.1.0.11:654)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       2.31812e-05 Mbps
+  Mean Delay:       6 ms
+  Mean Jitter:      4.5 ms
+
+Flow 170 (10.1.0.10:654 -> 10.1.0.6:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.6217e-05 Mbps
+  Mean Delay:       6 ms
+  Mean Jitter:      4.5 ms
+
+Flow 171 (10.1.0.18:654 -> 10.1.0.4:654)
+  Tx Packets:       9
+  Rx Packets:       9
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000368284 Mbps
+  Mean Delay:       10.4444 ms
+  Mean Jitter:      9.5 ms
+
+Flow 172 (10.1.0.7:9005 -> 10.1.0.13:49153)
+  Tx Packets:       457
+  Rx Packets:       443
+  Lost Packets:     14
+  Retx (forwarded): 19
+  Packet Loss:      3.06346 %
+  Throughput:       0.00467475 Mbps
+  Mean Delay:       0.810384 ms
+  Mean Jitter:      0.461538 ms
+
+Flow 173 (10.1.0.4:654 -> 10.1.0.18:654)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      25 %
+  Throughput:       0.000268385 Mbps
+  Mean Delay:       1.33333 ms
+  Mean Jitter:      1.5 ms
+
+Flow 174 (10.1.0.10:654 -> 10.1.0.12:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0462371 Mbps
+  Mean Delay:       8 ms
+  Mean Jitter:      0 ms
+
+Flow 175 (10.1.0.16:654 -> 10.1.0.12:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0222748 Mbps
+  Mean Delay:       17 ms
+  Mean Jitter:      0 ms
+
+Flow 176 (10.1.0.17:654 -> 10.1.0.12:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00625627 Mbps
+  Mean Delay:       16 ms
+  Mean Jitter:      5 ms
+
+Flow 177 (10.1.0.7:654 -> 10.1.0.12:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00695868 Mbps
+  Mean Delay:       15 ms
+  Mean Jitter:      28 ms
+
+Flow 178 (10.1.0.8:654 -> 10.1.0.12:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.64707e-05 Mbps
+  Mean Delay:       1002 ms
+  Mean Jitter:      1999 ms
+
+Flow 179 (10.1.0.13:654 -> 10.1.0.12:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0284132 Mbps
+  Mean Delay:       13 ms
+  Mean Jitter:      0 ms
+
+Flow 180 (10.1.0.12:654 -> 10.1.0.10:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0218215 Mbps
+  Mean Delay:       10 ms
+  Mean Jitter:      0 ms
+
+Flow 181 (10.1.0.12:654 -> 10.1.0.6:654)
+  Tx Packets:       12
+  Rx Packets:       12
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       8.55866e-05 Mbps
+  Mean Delay:       4.75 ms
+  Mean Jitter:      2.27273 ms
+
+Flow 182 (10.1.0.12:654 -> 10.1.0.20:654)
+  Tx Packets:       2
+  Rx Packets:       1
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      50 %
+  Throughput:       0.0115163 Mbps
+  Mean Delay:       20 ms
+  Mean Jitter:      0 ms
+
+Flow 183 (10.1.0.7:654 -> 10.1.0.20:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000404132 Mbps
+  Mean Delay:       4 ms
+  Mean Jitter:      6 ms
+
+Flow 184 (10.1.0.14:654 -> 10.1.0.12:654)
+  Tx Packets:       8
+  Rx Packets:       8
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       5.67533e-05 Mbps
+  Mean Delay:       4.5 ms
+  Mean Jitter:      3 ms
+
+Flow 185 (10.1.0.14:654 -> 10.1.0.20:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000129674 Mbps
+  Mean Delay:       250.75 ms
+  Mean Jitter:      334 ms
+
+Flow 186 (10.1.0.12:654 -> 10.1.0.7:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000252401 Mbps
+  Mean Delay:       8 ms
+  Mean Jitter:      5 ms
+
+Flow 187 (10.1.0.12:654 -> 10.1.0.14:654)
+  Tx Packets:       10
+  Rx Packets:       10
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       7.05261e-05 Mbps
+  Mean Delay:       2.4 ms
+  Mean Jitter:      2.88889 ms
+
+Flow 188 (10.1.0.12:654 -> 10.1.0.17:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0352273 Mbps
+  Mean Delay:       6 ms
+  Mean Jitter:      0 ms
+
+Flow 189 (10.1.0.3:654 -> 10.1.0.20:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       3.71822e-05 Mbps
+  Mean Delay:       3 ms
+  Mean Jitter:      3.33333 ms
+
+Flow 190 (10.1.0.8:654 -> 10.1.0.17:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00898865 Mbps
+  Mean Delay:       42 ms
+  Mean Jitter:      0 ms
+
+Flow 191 (10.1.0.13:654 -> 10.1.0.5:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       8.59379e-05 Mbps
+  Mean Delay:       507.5 ms
+  Mean Jitter:      996 ms
+
+Flow 192 (10.1.0.1:654 -> 10.1.0.12:654)
+  Tx Packets:       16
+  Rx Packets:       16
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000120757 Mbps
+  Mean Delay:       12.5 ms
+  Mean Jitter:      17.9333 ms
+
+Flow 193 (10.1.0.2:654 -> 10.1.0.11:654)
+  Tx Packets:       3
+  Rx Packets:       0
+  Lost Packets:     3
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 194 (10.1.0.14:654 -> 10.1.0.3:654)
+  Tx Packets:       9
+  Rx Packets:       0
+  Lost Packets:     6
+  Retx (forwarded): 0
+  Packet Loss:      66.6667 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 195 (10.1.0.6:654 -> 10.1.0.17:654)
+  Tx Packets:       7
+  Rx Packets:       0
+  Lost Packets:     7
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 196 (10.1.0.5:654 -> 10.1.0.11:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       4.19722e-05 Mbps
+  Mean Delay:       11.25 ms
+  Mean Jitter:      5 ms
+
+Flow 197 (10.1.0.13:654 -> 10.1.0.18:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00167107 Mbps
+  Mean Delay:       7.5 ms
+  Mean Jitter:      8 ms
+
+Flow 198 (10.1.0.17:654 -> 10.1.0.11:654)
+  Tx Packets:       10
+  Rx Packets:       10
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       8.55065e-05 Mbps
+  Mean Delay:       12.7 ms
+  Mean Jitter:      16.5556 ms
+
+Flow 199 (10.1.0.12:654 -> 10.1.0.1:654)
+  Tx Packets:       10
+  Rx Packets:       10
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       7.40853e-05 Mbps
+  Mean Delay:       204.1 ms
+  Mean Jitter:      224.556 ms
+
+Flow 200 (10.1.0.12:654 -> 10.1.0.8:654)
+  Tx Packets:       2
+  Rx Packets:       1
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      50 %
+  Throughput:       5.37712e-06 Mbps
+  Mean Delay:       7 ms
+  Mean Jitter:      0 ms
+
+Flow 201 (10.1.0.17:654 -> 10.1.0.8:654)
+  Tx Packets:       2
+  Rx Packets:       1
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      50 %
+  Throughput:       0.0829751 Mbps
+  Mean Delay:       4 ms
+  Mean Jitter:      0 ms
+
+Flow 202 (10.1.0.8:654 -> 10.1.0.11:654)
+  Tx Packets:       9
+  Rx Packets:       0
+  Lost Packets:     7
+  Retx (forwarded): 0
+  Packet Loss:      77.7778 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 203 (10.1.0.11:654 -> 10.1.0.17:654)
+  Tx Packets:       8
+  Rx Packets:       8
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       6.34616e-05 Mbps
+  Mean Delay:       7.75 ms
+  Mean Jitter:      10.5714 ms
+
+Flow 204 (10.1.0.10:654 -> 10.1.0.20:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0449123 Mbps
+  Mean Delay:       5 ms
+  Mean Jitter:      0 ms
+
+Flow 205 (10.1.0.14:654 -> 10.1.0.11:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00030108 Mbps
+  Mean Delay:       919.5 ms
+  Mean Jitter:      1821 ms
+
+Flow 206 (10.1.0.11:654 -> 10.1.0.8:654)
+  Tx Packets:       9
+  Rx Packets:       7
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      22.2222 %
+  Throughput:       6.66563e-05 Mbps
+  Mean Delay:       256 ms
+  Mean Jitter:      295.167 ms
+
+Flow 207 (10.1.0.5:654 -> 10.1.0.10:654)
+  Tx Packets:       8
+  Rx Packets:       8
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       7.18043e-05 Mbps
+  Mean Delay:       6.5 ms
+  Mean Jitter:      3.42857 ms
+
+Flow 208 (10.1.0.7:654 -> 10.1.0.3:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00729708 Mbps
+  Mean Delay:       6 ms
+  Mean Jitter:      4 ms
+
+Flow 209 (10.1.0.18:654 -> 10.1.0.15:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00357651 Mbps
+  Mean Delay:       107 ms
+  Mean Jitter:      0 ms
+
+Flow 210 (10.1.0.15:654 -> 10.1.0.10:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       3.27317e-05 Mbps
+  Mean Delay:       5.25 ms
+  Mean Jitter:      10 ms
+
+Flow 211 (10.1.0.10:654 -> 10.1.0.16:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       4.18815e-05 Mbps
+  Mean Delay:       5.33333 ms
+  Mean Jitter:      6 ms
+
+Flow 212 (10.1.0.16:654 -> 10.1.0.1:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       8.25686e-05 Mbps
+  Mean Delay:       12.6667 ms
+  Mean Jitter:      6 ms
+
+Flow 213 (10.1.0.16:654 -> 10.1.0.10:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       6.39298e-05 Mbps
+  Mean Delay:       21.25 ms
+  Mean Jitter:      27.3333 ms
+
+Flow 214 (10.1.0.15:654 -> 10.1.0.18:654)
+  Tx Packets:       2
+  Rx Packets:       0
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 215 (10.1.0.12:654 -> 10.1.0.9:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0414084 Mbps
+  Mean Delay:       9 ms
+  Mean Jitter:      0 ms
+
+Flow 216 (10.1.0.5:49154 -> 10.1.0.4:9006)
+  Tx Packets:       12366
+  Rx Packets:       12323
+  Lost Packets:     43
+  Retx (forwarded): 142
+  Packet Loss:      0.347728 %
+  Throughput:       1.18967 Mbps
+  Mean Delay:       24.3532 ms
+  Mean Jitter:      2.0986 ms
+
+Flow 217 (10.1.0.4:9006 -> 10.1.0.5:49154)
+  Tx Packets:       6320
+  Rx Packets:       6317
+  Lost Packets:     3
+  Retx (forwarded): 90
+  Packet Loss:      0.0474684 %
+  Throughput:       0.0572405 Mbps
+  Mean Delay:       6.36204 ms
+  Mean Jitter:      0.906745 ms
+
+Flow 218 (10.1.0.14:654 -> 10.1.0.1:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       5.28979e-05 Mbps
+  Mean Delay:       170.5 ms
+  Mean Jitter:      204.4 ms
+
+Flow 219 (10.1.0.12:654 -> 10.1.0.11:654)
+  Tx Packets:       2
+  Rx Packets:       0
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      50 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 220 (10.1.0.11:654 -> 10.1.0.9:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.227236 Mbps
+  Mean Delay:       1 ms
+  Mean Jitter:      0 ms
+
+Flow 221 (10.1.0.7:654 -> 10.1.0.4:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000132502 Mbps
+  Mean Delay:       42 ms
+  Mean Jitter:      84 ms
+
+Flow 222 (10.1.0.4:49155 -> 10.1.0.11:9008)
+  Tx Packets:       1153
+  Rx Packets:       1153
+  Lost Packets:     0
+  Retx (forwarded): 3
+  Packet Loss:      0 %
+  Throughput:       1.04184 Mbps
+  Mean Delay:       283.045 ms
+  Mean Jitter:      2.12153 ms
+
+Flow 223 (10.1.0.6:654 -> 10.1.0.8:654)
+  Tx Packets:       9
+  Rx Packets:       0
+  Lost Packets:     9
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 224 (10.1.0.16:654 -> 10.1.0.8:654)
+  Tx Packets:       2
+  Rx Packets:       1
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      50 %
+  Throughput:       0.037794 Mbps
+  Mean Delay:       10 ms
+  Mean Jitter:      0 ms
+
+Flow 225 (10.1.0.8:654 -> 10.1.0.16:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0154461 Mbps
+  Mean Delay:       15 ms
+  Mean Jitter:      0 ms
+
+Flow 226 (10.1.0.2:654 -> 10.1.0.17:654)
+  Tx Packets:       7
+  Rx Packets:       0
+  Lost Packets:     7
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 227 (10.1.0.2:654 -> 10.1.0.5:654)
+  Tx Packets:       9
+  Rx Packets:       0
+  Lost Packets:     8
+  Retx (forwarded): 0
+  Packet Loss:      88.8889 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 228 (10.1.0.11:9008 -> 10.1.0.4:49155)
+  Tx Packets:       578
+  Rx Packets:       577
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      0.17301 %
+  Throughput:       0.0514844 Mbps
+  Mean Delay:       1.26343 ms
+  Mean Jitter:      0.510417 ms
+
+Flow 229 (10.1.0.8:49153 -> 10.1.0.19:9014)
+  Tx Packets:       4
+  Rx Packets:       2
+  Lost Packets:     2
+  Retx (forwarded): 2
+  Packet Loss:      50 %
+  Throughput:       3.73314e-05 Mbps
+  Mean Delay:       1791.5 ms
+  Mean Jitter:      2418 ms
+
+Flow 230 (10.1.0.18:654 -> 10.1.0.7:654)
+  Tx Packets:       3
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       2.0849e-05 Mbps
+  Mean Delay:       13.5 ms
+  Mean Jitter:      3 ms
+
+Flow 231 (10.1.0.17:49153 -> 10.1.0.8:9016)
+  Tx Packets:       4
+  Rx Packets:       3
+  Lost Packets:     1
+  Retx (forwarded): 7
+  Packet Loss:      25 %
+  Throughput:       0.000140534 Mbps
+  Mean Delay:       1954.67 ms
+  Mean Jitter:      1791.5 ms
+
+Flow 232 (10.1.0.7:654 -> 10.1.0.13:654)
+  Tx Packets:       15
+  Rx Packets:       14
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      6.66667 %
+  Throughput:       0.00025835 Mbps
+  Mean Delay:       4.71429 ms
+  Mean Jitter:      6.61538 ms
+
+Flow 233 (10.1.0.13:654 -> 10.1.0.7:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       4.10389e-05 Mbps
+  Mean Delay:       2 ms
+  Mean Jitter:      4 ms
+
+Flow 234 (10.1.0.16:654 -> 10.1.0.5:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000140564 Mbps
+  Mean Delay:       257.25 ms
+  Mean Jitter:      342.333 ms
+
+Flow 235 (10.1.0.9:654 -> 10.1.0.5:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000161265 Mbps
+  Mean Delay:       8.66667 ms
+  Mean Jitter:      12 ms
+
+Flow 236 (10.1.0.1:654 -> 10.1.0.5:654)
+  Tx Packets:       10
+  Rx Packets:       10
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000171128 Mbps
+  Mean Delay:       8.5 ms
+  Mean Jitter:      14.3333 ms
+
+Flow 237 (10.1.0.9:654 -> 10.1.0.8:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00970381 Mbps
+  Mean Delay:       39 ms
+  Mean Jitter:      0 ms
+
+Flow 238 (10.1.0.1:654 -> 10.1.0.14:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 1
+  Packet Loss:      0 %
+  Throughput:       9.0943e-05 Mbps
+  Mean Delay:       202 ms
+  Mean Jitter:      234.667 ms
+
+Flow 239 (10.1.0.10:654 -> 10.1.0.17:654)
+  Tx Packets:       16
+  Rx Packets:       15
+  Lost Packets:     1
+  Retx (forwarded): 1
+  Packet Loss:      6.25 %
+  Throughput:       0.000215822 Mbps
+  Mean Delay:       57.3333 ms
+  Mean Jitter:      56.1429 ms
+
+Flow 240 (10.1.0.2:654 -> 10.1.0.9:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0185549 Mbps
+  Mean Delay:       12 ms
+  Mean Jitter:      0 ms
+
+Flow 241 (10.1.0.8:9016 -> 10.1.0.17:49153)
+  Tx Packets:       5
+  Rx Packets:       0
+  Lost Packets:     5
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 242 (10.1.0.5:654 -> 10.1.0.16:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000378589 Mbps
+  Mean Delay:       12.8 ms
+  Mean Jitter:      3.5 ms
+
+Flow 243 (10.1.0.12:49153 -> 10.1.0.3:9009)
+  Tx Packets:       40
+  Rx Packets:       23
+  Lost Packets:     16
+  Retx (forwarded): 1
+  Packet Loss:      40 %
+  Throughput:       0.00273063 Mbps
+  Mean Delay:       1.65217 ms
+  Mean Jitter:      1.09091 ms
+
+Flow 244 (10.1.0.8:654 -> 10.1.0.6:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000112476 Mbps
+  Mean Delay:       153 ms
+  Mean Jitter:      168.333 ms
+
+Flow 245 (10.1.0.7:49153 -> 10.1.0.6:9010)
+  Tx Packets:       4
+  Rx Packets:       0
+  Lost Packets:     4
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 246 (10.1.0.18:654 -> 10.1.0.19:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       1.44679 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 247 (10.1.0.19:9014 -> 10.1.0.8:49153)
+  Tx Packets:       5
+  Rx Packets:       0
+  Lost Packets:     5
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 248 (10.1.0.9:654 -> 10.1.0.16:654)
+  Tx Packets:       1
+  Rx Packets:       0
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 249 (10.1.0.10:49153 -> 10.1.0.2:9002)
+  Tx Packets:       54
+  Rx Packets:       47
+  Lost Packets:     7
+  Retx (forwarded): 105
+  Packet Loss:      12.963 %
+  Throughput:       0.0457305 Mbps
+  Mean Delay:       241.532 ms
+  Mean Jitter:      28.4348 ms
+
+Flow 250 (10.1.0.19:49153 -> 10.1.0.15:9011)
+  Tx Packets:       473
+  Rx Packets:       467
+  Lost Packets:     7
+  Retx (forwarded): 264
+  Packet Loss:      1.47992 %
+  Throughput:       0.065215 Mbps
+  Mean Delay:       7.95717 ms
+  Mean Jitter:      2.54721 ms
+
+Flow 251 (10.1.0.19:654 -> 10.1.0.8:654)
+  Tx Packets:       5
+  Rx Packets:       0
+  Lost Packets:     5
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 252 (10.1.0.19:654 -> 10.1.0.13:654)
+  Tx Packets:       7
+  Rx Packets:       7
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000252752 Mbps
+  Mean Delay:       1.57143 ms
+  Mean Jitter:      1.33333 ms
+
+Flow 253 (10.1.0.17:654 -> 10.1.0.10:654)
+  Tx Packets:       16
+  Rx Packets:       16
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000235917 Mbps
+  Mean Delay:       7.625 ms
+  Mean Jitter:      14.4 ms
+
+Flow 254 (10.1.0.7:654 -> 10.1.0.9:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000738273 Mbps
+  Mean Delay:       714 ms
+  Mean Jitter:      632 ms
+
+Flow 255 (10.1.0.19:654 -> 10.1.0.9:654)
+  Tx Packets:       1
+  Rx Packets:       0
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 256 (10.1.0.13:654 -> 10.1.0.9:654)
+  Tx Packets:       2
+  Rx Packets:       0
+  Lost Packets:     2
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 257 (10.1.0.5:654 -> 10.1.0.1:654)
+  Tx Packets:       6
+  Rx Packets:       6
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000157615 Mbps
+  Mean Delay:       9.33333 ms
+  Mean Jitter:      6.8 ms
+
+Flow 258 (10.1.0.2:9002 -> 10.1.0.10:49153)
+  Tx Packets:       35
+  Rx Packets:       26
+  Lost Packets:     9
+  Retx (forwarded): 53
+  Packet Loss:      25.7143 %
+  Throughput:       0.0130414 Mbps
+  Mean Delay:       14.3846 ms
+  Mean Jitter:      15.88 ms
+
+Flow 259 (10.1.0.18:49153 -> 10.1.0.15:9004)
+  Tx Packets:       4
+  Rx Packets:       0
+  Lost Packets:     3
+  Retx (forwarded): 0
+  Packet Loss:      75 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 260 (10.1.0.14:654 -> 10.1.0.5:654)
+  Tx Packets:       2
+  Rx Packets:       1
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      50 %
+  Throughput:       0.000380245 Mbps
+  Mean Delay:       1009 ms
+  Mean Jitter:      0 ms
+
+Flow 261 (10.1.0.14:654 -> 10.1.0.2:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       7.87721e-05 Mbps
+  Mean Delay:       4.33333 ms
+  Mean Jitter:      1.5 ms
+
+Flow 262 (10.1.0.5:654 -> 10.1.0.14:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0122786 Mbps
+  Mean Delay:       19 ms
+  Mean Jitter:      0 ms
+
+Flow 263 (10.1.0.16:654 -> 10.1.0.4:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00715793 Mbps
+  Mean Delay:       53 ms
+  Mean Jitter:      0 ms
+
+Flow 264 (10.1.0.9:654 -> 10.1.0.13:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.103783 Mbps
+  Mean Delay:       3 ms
+  Mean Jitter:      0 ms
+
+Flow 265 (10.1.0.13:654 -> 10.1.0.19:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000216446 Mbps
+  Mean Delay:       1108 ms
+  Mean Jitter:      0 ms
+
+Flow 266 (10.1.0.15:654 -> 10.1.0.16:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0411043 Mbps
+  Mean Delay:       9 ms
+  Mean Jitter:      0 ms
+
+Flow 267 (10.1.0.17:654 -> 10.1.0.6:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000197598 Mbps
+  Mean Delay:       222.8 ms
+  Mean Jitter:      278 ms
+
+Flow 268 (10.1.0.3:654 -> 10.1.0.2:654)
+  Tx Packets:       1
+  Rx Packets:       0
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 269 (10.1.0.20:654 -> 10.1.0.8:654)
+  Tx Packets:       1
+  Rx Packets:       0
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 270 (10.1.0.20:654 -> 10.1.0.3:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000466226 Mbps
+  Mean Delay:       7.5 ms
+  Mean Jitter:      8.66667 ms
+
+Flow 271 (10.1.0.20:654 -> 10.1.0.19:654)
+  Tx Packets:       1
+  Rx Packets:       0
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      100 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+Flow 272 (10.1.0.3:654 -> 10.1.0.1:654)
+  Tx Packets:       10
+  Rx Packets:       9
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      10 %
+  Throughput:       0.000265553 Mbps
+  Mean Delay:       2.88889 ms
+  Mean Jitter:      4 ms
+
+Flow 273 (10.1.0.11:654 -> 10.1.0.19:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000250564 Mbps
+  Mean Delay:       1.25 ms
+  Mean Jitter:      1.33333 ms
+
+Flow 274 (10.1.0.4:49156 -> 10.1.0.2:9013)
+  Tx Packets:       27
+  Rx Packets:       11
+  Lost Packets:     16
+  Retx (forwarded): 21
+  Packet Loss:      59.2593 %
+  Throughput:       0.00271411 Mbps
+  Mean Delay:       56.6364 ms
+  Mean Jitter:      34.3 ms
+
+Flow 275 (10.1.0.12:654 -> 10.1.0.2:654)
+  Tx Packets:       3
+  Rx Packets:       3
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000167563 Mbps
+  Mean Delay:       7 ms
+  Mean Jitter:      10 ms
+
+Flow 276 (10.1.0.2:9013 -> 10.1.0.4:49156)
+  Tx Packets:       8
+  Rx Packets:       6
+  Lost Packets:     1
+  Retx (forwarded): 13
+  Packet Loss:      12.5 %
+  Throughput:       0.000636487 Mbps
+  Mean Delay:       111.5 ms
+  Mean Jitter:      119 ms
+
+Flow 277 (10.1.0.1:654 -> 10.1.0.3:654)
+  Tx Packets:       4
+  Rx Packets:       4
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.00013145 Mbps
+  Mean Delay:       3 ms
+  Mean Jitter:      2 ms
+
+Flow 278 (10.1.0.2:654 -> 10.1.0.1:654)
+  Tx Packets:       2
+  Rx Packets:       2
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       8.92559e-05 Mbps
+  Mean Delay:       5 ms
+  Mean Jitter:      4 ms
+
+Flow 279 (10.1.0.2:654 -> 10.1.0.8:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0234919 Mbps
+  Mean Delay:       16 ms
+  Mean Jitter:      0 ms
+
+Flow 280 (10.1.0.10:654 -> 10.1.0.5:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000347439 Mbps
+  Mean Delay:       0.4 ms
+  Mean Jitter:      0 ms
+
+Flow 281 (10.1.0.1:654 -> 10.1.0.8:654)
+  Tx Packets:       3
+  Rx Packets:       2
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      33.3333 %
+  Throughput:       9.47856e-05 Mbps
+  Mean Delay:       4.5 ms
+  Mean Jitter:      6 ms
+
+Flow 282 (10.1.0.19:654 -> 10.1.0.6:654)
+  Tx Packets:       3
+  Rx Packets:       2
+  Lost Packets:     1
+  Retx (forwarded): 0
+  Packet Loss:      33.3333 %
+  Throughput:       0.000361557 Mbps
+  Mean Delay:       12 ms
+  Mean Jitter:      21 ms
+
+Flow 283 (10.1.0.8:654 -> 10.1.0.1:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000124872 Mbps
+  Mean Delay:       207 ms
+  Mean Jitter:      258.5 ms
+
+Flow 284 (10.1.0.3:9009 -> 10.1.0.12:49153)
+  Tx Packets:       15
+  Rx Packets:       15
+  Lost Packets:     0
+  Retx (forwarded): 4
+  Packet Loss:      0 %
+  Throughput:       0.000408429 Mbps
+  Mean Delay:       6 ms
+  Mean Jitter:      6.07143 ms
+
+Flow 285 (10.1.0.15:654 -> 10.1.0.17:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000381155 Mbps
+  Mean Delay:       1007 ms
+  Mean Jitter:      0 ms
+
+Flow 286 (10.1.0.14:49153 -> 10.1.0.10:9015)
+  Tx Packets:       165
+  Rx Packets:       160
+  Lost Packets:     3
+  Retx (forwarded): 186
+  Packet Loss:      1.81818 %
+  Throughput:       0.0574156 Mbps
+  Mean Delay:       10.3688 ms
+  Mean Jitter:      3.8239 ms
+
+Flow 287 (10.1.0.10:9015 -> 10.1.0.14:49153)
+  Tx Packets:       91
+  Rx Packets:       84
+  Lost Packets:     7
+  Retx (forwarded): 88
+  Packet Loss:      7.69231 %
+  Throughput:       0.00282796 Mbps
+  Mean Delay:       9.63095 ms
+  Mean Jitter:      16.4337 ms
+
+Flow 288 (10.1.0.17:654 -> 10.1.0.15:654)
+  Tx Packets:       5
+  Rx Packets:       5
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000247086 Mbps
+  Mean Delay:       2.8 ms
+  Mean Jitter:      2.5 ms
+
+Flow 289 (10.1.0.15:9011 -> 10.1.0.19:49153)
+  Tx Packets:       266
+  Rx Packets:       266
+  Lost Packets:     0
+  Retx (forwarded): 205
+  Packet Loss:      0 %
+  Throughput:       0.0100674 Mbps
+  Mean Delay:       2.19549 ms
+  Mean Jitter:      0.777358 ms
+
+Flow 290 (10.1.0.2:654 -> 10.1.0.12:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.0343775 Mbps
+  Mean Delay:       11 ms
+  Mean Jitter:      0 ms
+
+Flow 291 (10.1.0.3:654 -> 10.1.0.14:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000383449 Mbps
+  Mean Delay:       1001 ms
+  Mean Jitter:      0 ms
+
+Flow 292 (10.1.0.3:654 -> 10.1.0.6:654)
+  Tx Packets:       1
+  Rx Packets:       1
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0.000383494 Mbps
+  Mean Delay:       1001 ms
+  Mean Jitter:      0 ms
+
+Flow 293 (10.1.0.7:654 -> 10.1.0.18:654)
+  Tx Packets:       3
+  Rx Packets:       0
+  Lost Packets:     0
+  Retx (forwarded): 0
+  Packet Loss:      0 %
+  Throughput:       0 Mbps
+  Mean Delay:       0 ms
+  Mean Jitter:      0 ms
+
+=== SUMMARY ===
+TCP Variant:        experts
+Nodes:              20
+Flows:              17
+Sim Time:           120 s
+Total Tx Packets:   60404
+Total Rx Packets:   59645
+Total Lost Packets: 737
+Retransmissions:    6446
+Packet Loss Rate:   1.22012 %
+Total Throughput:   8.17652 Mbps
+Mean Delay:         75.2965 ms
+Mean Jitter:        3.08884 ms
+
+Simulation finished.

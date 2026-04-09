@@ -1,0 +1,7 @@
+build/
+cmake-cache/
+*.pyc
+__pycache__/
+*.o
+*.so
+*.a

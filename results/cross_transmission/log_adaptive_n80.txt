@@ -1,0 +1,59 @@
+CrossFlow 0 [WIRED->WIFI]: wired[0] -> wireless[1] port=9000
+CrossFlow 1 [WIRED->WIFI]: wired[1] -> wireless[33] port=9001
+CrossFlow 2 [WIRED->WIFI]: wired[2] -> wireless[49] port=9002
+CrossFlow 3 [WIRED->WIFI]: wired[3] -> wireless[38] port=9003
+CrossFlow 4 [WIRED->WIFI]: wired[4] -> wireless[30] port=9004
+CrossFlow 5 [WIRED->WIFI]: wired[5] -> wireless[9] port=9005
+CrossFlow 6 [WIRED->WIFI]: wired[6] -> wireless[6] port=9006
+CrossFlow 7 [WIRED->WIFI]: wired[7] -> wireless[13] port=9007
+CrossFlow 8 [WIRED->WIFI]: wired[8] -> wireless[44] port=9008
+CrossFlow 9 [WIRED->WIFI]: wired[9] -> wireless[29] port=9009
+CrossFlow 10 [WIRED->WIFI]: wired[10] -> wireless[42] port=9010
+CrossFlow 11 [WIRED->WIFI]: wired[11] -> wireless[48] port=9011
+CrossFlow 12 [WIRED->WIFI]: wired[12] -> wireless[24] port=9012
+CrossFlow 13 [WIRED->WIFI]: wired[13] -> wireless[5] port=9013
+CrossFlow 14 [WIRED->WIFI]: wired[14] -> wireless[0] port=9014
+CrossFlow 15 [WIRED->WIFI]: wired[15] -> wireless[53] port=9015
+CrossFlow 16 [WIRED->WIFI]: wired[16] -> wireless[28] port=9016
+CrossFlow 17 [WIRED->WIFI]: wired[17] -> wireless[25] port=9017
+CrossFlow 18 [WIRED->WIFI]: wired[18] -> wireless[48] port=9018
+CrossFlow 19 [WIRED->WIFI]: wired[19] -> wireless[38] port=9019
+CrossFlow 20 [WIFI->WIRED]: wireless[43] -> wired[0] port=9020
+CrossFlow 21 [WIFI->WIRED]: wireless[42] -> wired[1] port=9021
+CrossFlow 22 [WIFI->WIRED]: wireless[25] -> wired[2] port=9022
+CrossFlow 23 [WIFI->WIRED]: wireless[51] -> wired[3] port=9023
+CrossFlow 24 [WIFI->WIRED]: wireless[15] -> wired[4] port=9024
+CrossFlow 25 [WIFI->WIRED]: wireless[38] -> wired[5] port=9025
+CrossFlow 26 [WIFI->WIRED]: wireless[26] -> wired[6] port=9026
+CrossFlow 27 [WIFI->WIRED]: wireless[53] -> wired[7] port=9027
+CrossFlow 28 [WIFI->WIRED]: wireless[31] -> wired[8] port=9028
+CrossFlow 29 [WIFI->WIRED]: wireless[15] -> wired[9] port=9029
+CrossFlow 30 [WIFI->WIRED]: wireless[20] -> wired[10] port=9030
+CrossFlow 31 [WIFI->WIRED]: wireless[49] -> wired[11] port=9031
+CrossFlow 32 [WIFI->WIRED]: wireless[35] -> wired[12] port=9032
+CrossFlow 33 [WIFI->WIRED]: wireless[8] -> wired[13] port=9033
+CrossFlow 34 [WIFI->WIRED]: wireless[38] -> wired[14] port=9034
+CrossFlow 35 [WIFI->WIRED]: wireless[54] -> wired[15] port=9035
+CrossFlow 36 [WIFI->WIRED]: wireless[9] -> wired[16] port=9036
+CrossFlow 37 [WIFI->WIRED]: wireless[47] -> wired[17] port=9037
+CrossFlow 38 [WIFI->WIRED]: wireless[34] -> wired[18] port=9038
+CrossFlow 39 [WIFI->WIRED]: wireless[44] -> wired[19] port=9039
+
+=== SUMMARY ===
+TCP Variant:        adaptive
+Wired Nodes:        20
+Wireless Nodes:     60
+Flows:              40
+PacketsPerSec:      100
+Speed:              5 m/s
+Sim Time:           60 s
+Total Tx Packets:   39933
+Total Rx Packets:   34088
+Total Lost Packets: 5363
+Packet Delivery:    85.363 %
+Packet Drop Ratio:  13.43 %
+Total Throughput:   25.1158 Mbps
+Mean Delay:         176.59 ms
+Energy Consumed:    3186.35 J
+
+Simulation finished.

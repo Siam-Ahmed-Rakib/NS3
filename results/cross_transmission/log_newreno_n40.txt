@@ -1,0 +1,39 @@
+CrossFlow 0 [WIRED->WIFI]: wired[0] -> wireless[7] port=9000
+CrossFlow 1 [WIRED->WIFI]: wired[1] -> wireless[26] port=9001
+CrossFlow 2 [WIRED->WIFI]: wired[2] -> wireless[20] port=9002
+CrossFlow 3 [WIRED->WIFI]: wired[3] -> wireless[20] port=9003
+CrossFlow 4 [WIRED->WIFI]: wired[4] -> wireless[27] port=9004
+CrossFlow 5 [WIRED->WIFI]: wired[5] -> wireless[4] port=9005
+CrossFlow 6 [WIRED->WIFI]: wired[6] -> wireless[11] port=9006
+CrossFlow 7 [WIRED->WIFI]: wired[7] -> wireless[20] port=9007
+CrossFlow 8 [WIRED->WIFI]: wired[8] -> wireless[17] port=9008
+CrossFlow 9 [WIRED->WIFI]: wired[9] -> wireless[15] port=9009
+CrossFlow 10 [WIFI->WIRED]: wireless[22] -> wired[0] port=9010
+CrossFlow 11 [WIFI->WIRED]: wireless[8] -> wired[1] port=9011
+CrossFlow 12 [WIFI->WIRED]: wireless[9] -> wired[2] port=9012
+CrossFlow 13 [WIFI->WIRED]: wireless[7] -> wired[3] port=9013
+CrossFlow 14 [WIFI->WIRED]: wireless[21] -> wired[4] port=9014
+CrossFlow 15 [WIFI->WIRED]: wireless[0] -> wired[5] port=9015
+CrossFlow 16 [WIFI->WIRED]: wireless[18] -> wired[6] port=9016
+CrossFlow 17 [WIFI->WIRED]: wireless[16] -> wired[7] port=9017
+CrossFlow 18 [WIFI->WIRED]: wireless[3] -> wired[8] port=9018
+CrossFlow 19 [WIFI->WIRED]: wireless[5] -> wired[9] port=9019
+
+=== SUMMARY ===
+TCP Variant:        newreno
+Wired Nodes:        10
+Wireless Nodes:     30
+Flows:              20
+PacketsPerSec:      100
+Speed:              5 m/s
+Sim Time:           60 s
+Total Tx Packets:   44558
+Total Rx Packets:   40439
+Total Lost Packets: 3891
+Packet Delivery:    90.7559 %
+Packet Drop Ratio:  8.73244 %
+Total Throughput:   49.8566 Mbps
+Mean Delay:         156.599 ms
+Energy Consumed:    1626.93 J
+
+Simulation finished.

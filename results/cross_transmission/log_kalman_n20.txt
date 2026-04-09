@@ -1,0 +1,29 @@
+CrossFlow 0 [WIRED->WIFI]: wired[0] -> wireless[1] port=9000
+CrossFlow 1 [WIRED->WIFI]: wired[1] -> wireless[11] port=9001
+CrossFlow 2 [WIRED->WIFI]: wired[2] -> wireless[10] port=9002
+CrossFlow 3 [WIRED->WIFI]: wired[3] -> wireless[2] port=9003
+CrossFlow 4 [WIRED->WIFI]: wired[4] -> wireless[12] port=9004
+CrossFlow 5 [WIFI->WIRED]: wireless[2] -> wired[0] port=9005
+CrossFlow 6 [WIFI->WIRED]: wireless[5] -> wired[1] port=9006
+CrossFlow 7 [WIFI->WIRED]: wireless[14] -> wired[2] port=9007
+CrossFlow 8 [WIFI->WIRED]: wireless[11] -> wired[3] port=9008
+CrossFlow 9 [WIFI->WIRED]: wireless[0] -> wired[4] port=9009
+
+=== SUMMARY ===
+TCP Variant:        kalman
+Wired Nodes:        5
+Wireless Nodes:     15
+Flows:              10
+PacketsPerSec:      100
+Speed:              5 m/s
+Sim Time:           60 s
+Total Tx Packets:   38447
+Total Rx Packets:   38131
+Total Lost Packets: 286
+Packet Delivery:    99.1781 %
+Packet Drop Ratio:  0.743881 %
+Total Throughput:   5.58391 Mbps
+Mean Delay:         16.1681 ms
+Energy Consumed:    841.415 J
+
+Simulation finished.

@@ -1,0 +1,58 @@
+Flow 0: node 3 -> node 8 port=9000 rate=819200bps
+Flow 1: node 15 -> node 7 port=9001 rate=819200bps
+Flow 2: node 16 -> node 8 port=9002 rate=819200bps
+Flow 3: node 12 -> node 0 port=9003 rate=819200bps
+Flow 4: node 13 -> node 14 port=9004 rate=819200bps
+Flow 5: node 14 -> node 15 port=9005 rate=819200bps
+Flow 6: node 9 -> node 18 port=9006 rate=819200bps
+Flow 7: node 13 -> node 19 port=9007 rate=819200bps
+Flow 8: node 13 -> node 8 port=9008 rate=819200bps
+Flow 9: node 17 -> node 0 port=9009 rate=819200bps
+Flow 10: node 16 -> node 6 port=9010 rate=819200bps
+Flow 11: node 16 -> node 13 port=9011 rate=819200bps
+Flow 12: node 0 -> node 7 port=9012 rate=819200bps
+Flow 13: node 4 -> node 16 port=9013 rate=819200bps
+Flow 14: node 2 -> node 19 port=9014 rate=819200bps
+Flow 15: node 0 -> node 16 port=9015 rate=819200bps
+Flow 16: node 0 -> node 9 port=9016 rate=819200bps
+Flow 17: node 9 -> node 3 port=9017 rate=819200bps
+Flow 18: node 6 -> node 3 port=9018 rate=819200bps
+Flow 19: node 2 -> node 19 port=9019 rate=819200bps
+Flow 20: node 5 -> node 17 port=9020 rate=819200bps
+Flow 21: node 1 -> node 13 port=9021 rate=819200bps
+Flow 22: node 17 -> node 0 port=9022 rate=819200bps
+Flow 23: node 14 -> node 17 port=9023 rate=819200bps
+Flow 24: node 15 -> node 7 port=9024 rate=819200bps
+Flow 25: node 15 -> node 3 port=9025 rate=819200bps
+Flow 26: node 8 -> node 13 port=9026 rate=819200bps
+Flow 27: node 19 -> node 17 port=9027 rate=819200bps
+Flow 28: node 1 -> node 2 port=9028 rate=819200bps
+Flow 29: node 6 -> node 11 port=9029 rate=819200bps
+Flow 30: node 12 -> node 9 port=9030 rate=819200bps
+Flow 31: node 8 -> node 11 port=9031 rate=819200bps
+Flow 32: node 13 -> node 6 port=9032 rate=819200bps
+Flow 33: node 4 -> node 10 port=9033 rate=819200bps
+Flow 34: node 6 -> node 13 port=9034 rate=819200bps
+Flow 35: node 12 -> node 2 port=9035 rate=819200bps
+Flow 36: node 7 -> node 5 port=9036 rate=819200bps
+Flow 37: node 1 -> node 6 port=9037 rate=819200bps
+Flow 38: node 8 -> node 11 port=9038 rate=819200bps
+Flow 39: node 9 -> node 16 port=9039 rate=819200bps
+
+=== SUMMARY ===
+TCP Variant:        experts
+Nodes:              20
+Flows:              40
+PacketsPerSec:      100
+Speed:              5 m/s
+Sim Time:           30 s
+Total Tx Packets:   22601
+Total Rx Packets:   20987
+Total Lost Packets: 1186
+Packet Delivery:    92.8587 %
+Packet Drop Ratio:  5.24756 %
+Total Throughput:   5.30981 Mbps
+Mean Delay:         155.347 ms
+Energy Consumed:    526.253 J
+
+Simulation finished.

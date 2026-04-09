@@ -1,0 +1,48 @@
+Flow 0: UE[40] -> RemoteHost port=50000 rate=819200bps
+Flow 1: UE[19] -> RemoteHost port=50001 rate=819200bps
+Flow 2: UE[48] -> RemoteHost port=50002 rate=819200bps
+Flow 3: UE[42] -> RemoteHost port=50003 rate=819200bps
+Flow 4: UE[42] -> RemoteHost port=50004 rate=819200bps
+Flow 5: UE[49] -> RemoteHost port=50005 rate=819200bps
+Flow 6: UE[55] -> RemoteHost port=50006 rate=819200bps
+Flow 7: UE[31] -> RemoteHost port=50007 rate=819200bps
+Flow 8: UE[20] -> RemoteHost port=50008 rate=819200bps
+Flow 9: UE[27] -> RemoteHost port=50009 rate=819200bps
+Flow 10: UE[43] -> RemoteHost port=50010 rate=819200bps
+Flow 11: UE[44] -> RemoteHost port=50011 rate=819200bps
+Flow 12: UE[58] -> RemoteHost port=50012 rate=819200bps
+Flow 13: UE[3] -> RemoteHost port=50013 rate=819200bps
+Flow 14: UE[32] -> RemoteHost port=50014 rate=819200bps
+Flow 15: UE[54] -> RemoteHost port=50015 rate=819200bps
+Flow 16: UE[49] -> RemoteHost port=50016 rate=819200bps
+Flow 17: UE[33] -> RemoteHost port=50017 rate=819200bps
+Flow 18: UE[59] -> RemoteHost port=50018 rate=819200bps
+Flow 19: UE[37] -> RemoteHost port=50019 rate=819200bps
+Flow 20: UE[49] -> RemoteHost port=50020 rate=819200bps
+Flow 21: UE[53] -> RemoteHost port=50021 rate=819200bps
+Flow 22: UE[14] -> RemoteHost port=50022 rate=819200bps
+Flow 23: UE[35] -> RemoteHost port=50023 rate=819200bps
+Flow 24: UE[30] -> RemoteHost port=50024 rate=819200bps
+Flow 25: UE[30] -> RemoteHost port=50025 rate=819200bps
+Flow 26: UE[13] -> RemoteHost port=50026 rate=819200bps
+Flow 27: UE[54] -> RemoteHost port=50027 rate=819200bps
+Flow 28: UE[24] -> RemoteHost port=50028 rate=819200bps
+Flow 29: UE[56] -> RemoteHost port=50029 rate=819200bps
+
+=== SUMMARY ===
+TCP Variant:        ml
+Nodes:              60
+Flows:              30
+PacketsPerSec:      100
+Speed:              5 m/s
+Sim Time:           30 s
+Total Tx Packets:   66064
+Total Rx Packets:   65938
+Total Lost Packets: 66
+Packet Delivery:    99.8093 %
+Packet Drop Ratio:  0.0999031 %
+Total Throughput:   16.8085 Mbps
+Mean Delay:         21.2701 ms
+Energy Consumed:    189.033 J
+
+Simulation finished.
