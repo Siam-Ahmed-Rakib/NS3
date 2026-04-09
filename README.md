@@ -1,3 +1,69 @@
+# TCP Congestion Control with Machine-Learning-Based RTT Prediction in ns-3.45
+
+> **CSE 322: Computer Networks Sessional — NS-3 Network Simulation Project**
+>
+> **Bangladesh University of Engineering and Technology (BUET)**
+> Department of Computer Science and Engineering
+
+| | |
+|---|---|
+| **Student** | Md. Siam Ahamed |
+| **Student ID** | 2105155 |
+| **Section** | C2 |
+| **Supervisor** | Shattik Islam Rhythm |
+
+## 📄 Project Report
+
+**[View Full Report (PDF)](final_report/report.pdf)**
+
+## Project Overview
+
+This project implements, evaluates, and extends **machine-learning-based Round-Trip Time (RTT) prediction** mechanisms for TCP congestion control within the **ns-3.45** network simulator. Based on the approach proposed by Nunes et al. (ICCCN 2011), the project reproduces the **Fixed-Share Experts** algorithm and introduces three additional RTT prediction models:
+
+- **Adaptive Experts** — dynamic learning rates, momentum smoothing, and expert revival
+- **Kalman Filter** — 1-D state estimation with adaptive noise tracking
+- **EWMA** — Exponentially Weighted Moving Average
+
+Together with standard **Westwood+** and **NewReno** baselines, six TCP congestion control variants are systematically compared across multiple network topologies.
+
+### Simulation Scenarios
+
+| # | Scenario | Description |
+|---|----------|-------------|
+| 1 | Paper Scenario I | MANET with varied flow counts |
+| 2 | Paper Scenario II | Bursty traffic with varied mobility speeds |
+| 3 | WiFi Mobile | 802.11b mobile ad-hoc networks |
+| 4 | WPAN Static | IEEE 802.15.4 static sensor networks with 6LoWPAN |
+| 5 | Cross Transmission | Hybrid wired CSMA + wireless cross-domain topology |
+| 6 | LTE Bonus | LTE/EPC cellular network |
+
+### Key Metrics
+
+Throughput, End-to-End Delay, Packet Delivery Ratio, Drop Ratio, Jitter, Goodput, Retransmission %, Energy Consumption.
+
+### Key Results
+
+ML-based RTT predictors (particularly **Kalman** and **Experts** variants) consistently achieve **25–50% lower end-to-end delay** compared to NewReno and Westwood+, while maintaining competitive throughput.
+
+## Repository Structure
+
+```
+scratch/                          # Simulation source files
+├── cross-transmission-simulation.cc
+├── lte-bonus-simulation.cc
+├── my-bursty-simulation.cc
+├── my-experts-simulation.cc
+├── my-paper-topology-simulation.cc
+├── wifi-mobile-simulation.cc
+└── wpan-static-simulation.cc
+tools/                            # Run scripts & analysis tools
+results/                          # Simulation output data & plots
+final_report/                     # Project report (LaTeX + PDF)
+└── report.pdf
+```
+
+---
+
 # The Network Simulator, Version 3
 
 [![codecov](https://codecov.io/gh/nsnam/ns-3-dev-git/branch/master/graph/badge.svg)](https://codecov.io/gh/nsnam/ns-3-dev-git/branch/master/)
